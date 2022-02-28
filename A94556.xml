@@ -1,0 +1,1345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the lavv, and to the testimonie or, A proposall of certain cases of conscience by way of quære; chiefly touching the publick worship of the New Testament; and other things either necessary or profitable for Christianity; presented to those churches and societies of Christians, which professe the Scripture of the Old and New Testament for the only rule of faith and manners. Wherein the true and genuine way to reconcile Christians is laid open / translated out of Latine into English by a lover of truth and peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94556</idno>
+            <idno type="STC">Wing T1562</idno>
+            <idno type="STC">Thomason E1165_3</idno>
+            <idno type="STC">ESTC R210102</idno>
+            <idno type="EEBO-CITATION">99868931</idno>
+            <idno type="PROQUEST">99868931</idno>
+            <idno type="VID">170652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170652)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 251:E1165[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the lavv, and to the testimonie or, A proposall of certain cases of conscience by way of quære; chiefly touching the publick worship of the New Testament; and other things either necessary or profitable for Christianity; presented to those churches and societies of Christians, which professe the Scripture of the Old and New Testament for the only rule of faith and manners. Wherein the true and genuine way to reconcile Christians is laid open / translated out of Latine into English by a lover of truth and peace.</title>
+                  <author>Lover of truth and peace.</author>
+               </titleStmt>
+               <extent>[14], 98, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington at the Blew Anchor in Cornhill neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final leaves = The author's admonition.</note>
+                  <note>Annotation on Thomason copy: "march 20"; the 8 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Practical --  Early works to 1800.</term>
+               <term>Christian life --  Handbooks, manuals, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170652:1" rendition="simple:additions"/>
+            <p>TO THE LAW, AND TO The TESTIMONIE: <hi>OR,</hi> A Propoſall of certain Caſes of Conſcience by way of quaere; chief<g ref="char:EOLhyphen"/>ly touching the publick worſhip of the <hi>New Teſtament;</hi> and other things ei<g ref="char:EOLhyphen"/>ther neceſſary or profitable for Chriſtianity; preſented to thoſe Chur<g ref="char:EOLhyphen"/>ches and Societies of Chriſtians, which profeſſe the Scripture of the <hi>Old</hi> and <hi>New Teſtament</hi> for the only Rule of Faith &amp; Manners.</p>
+            <p>Wherein the true and genuine way to reconcile Chriſtians is laid open</p>
+            <p>
+               <hi>Tranſlated out of Latine into Engliſh by a lover of</hi> Truth <hi>and</hi> Peace.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Whittington</hi> at the <hi>Blew Anchor</hi> in <hi>Cornhill</hi> neer the <hi>Royall Exchange,</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170652:2"/>
+            <pb facs="tcp:170652:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader; That the Authors name, and o<g ref="char:EOLhyphen"/>ther circumſtances of the Work, are not here ex<g ref="char:EOLhyphen"/>preſſed, know it was done for thy ſake, to prevent ſiniſter preju<g ref="char:EOLhyphen"/>dice, which is wont commonly to ariſe from ſuch undertakings, eſpecially when men write <hi>pro</hi> and <hi>con:</hi> Otherwiſe there is no reaſon why they ſhould not be publiſhed to all men. In the meane time, if thou knoweſt any thing belonging to
+<pb facs="tcp:170652:3"/>this deſigne, conceale it; till the Author, when he ſhall judge it expedient, mani<g ref="char:EOLhyphen"/>feſt himſelf. Farewell, Reade, Iudge, Anſwer: but on this condition, that thou remember it ſpoken to thy ſelf and others, Iohn <hi>7.24. Judge not according to the appearance, but judge righte<g ref="char:EOLhyphen"/>ous judgement.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:170652:3"/>
+            <head>A PREFACE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hoſoever ſhall dili<g ref="char:EOLhyphen"/>gently enquire into the ſtirres and tu<g ref="char:EOLhyphen"/>mults that are every where to be ſeen a<g ref="char:EOLhyphen"/>mongſt Chriſtians, will finde them chiefely to ariſe from hence, that the Leaders of almoſt every Party claime to themſelves a divine au<g ref="char:EOLhyphen"/>thority, as if they were true Prea<g ref="char:EOLhyphen"/>chers, and men of God. Upon which ground they are ſo buſie in ſtirring up, not only private Chri<g ref="char:EOLhyphen"/>ſtians, but alſo Magiſtrates to en<g ref="char:EOLhyphen"/>gage
+<pb facs="tcp:170652:4"/>themſelves in the quarrell of the Church (that is, of the Prieſts,) eſteeming the determinations of the Church, as the Oracles of God. <hi>Conſtantine</hi> the Great, though other<g ref="char:EOLhyphen"/>wiſe a ſage and excellent Prince, was yet brought into this fooles paradiſe, and ſo exceedingly doated on the Prieſts, as that he ſtuck not to ſay, that the voice of three hun<g ref="char:EOLhyphen"/>dred Biſhops met together, was no other then the voice of God him<g ref="char:EOLhyphen"/>ſelfe, and accordingly imployed his power in perſecuting thoſe whom the Biſhops had voted Heretiques. In whoſe ſteps Chriſtian Princes have ever ſince for the moſt part trodden, to the great diſturbance of their Subjects, and many times to the hazard of their own Crownes.
+<pb facs="tcp:170652:4"/>Wherefore it much conduceth to the Peace and Welfare of Chriſtian States, that the vanity of the claime which the Prieſts lay to divine Au<g ref="char:EOLhyphen"/>thority, ſhould be detected &amp; made known to the world, that Chriſti<g ref="char:EOLhyphen"/>ans may ceaſe for ſhame to proſe<g ref="char:EOLhyphen"/>cute any longer their intereſts, per<g ref="char:EOLhyphen"/>ceiving their office to be but an or<g ref="char:EOLhyphen"/>dinance of man. For if they, as they pretend, had received a Commiſsi<g ref="char:EOLhyphen"/>on from God, they would not only know when they received it, and what the particulars of it are, but would alſo be able to make it ap<g ref="char:EOLhyphen"/>peare to others. For it would be unſuitable to the wiſedome of God, to ſend meſſengers on other termes, ſince he would thereby expoſe not only them, but his own Majeſty to
+<pb facs="tcp:170652:5"/>ſcorne and contempt. For who would not laugh at ſuch a Prince, as ſhould ſend Embaſſadours to treat of ſome waighty affayres in his Name, without a Commiſsion or Letters of Credence to give aſſu<g ref="char:EOLhyphen"/>rance of their Embaſſie? But the Preachers of our times can neither tell us when the Word of God came to them, as being inſtituted of man without any divine Reve<g ref="char:EOLhyphen"/>lation, nor do they know what the particulars of their meſsage are, as learning all their skill out of books like other men, and therefore be<g ref="char:EOLhyphen"/>ing uncertaine of the truth of the Goſpell, they preach contrary to one another, yea the ſame perſon oftentimes preacheth contrary to himſelfe, crying up that one while
+<pb facs="tcp:170652:5"/>for truth, which another while he cryeth down againe for errour; nor can they make their calling ap<g ref="char:EOLhyphen"/>parant to others, in that their ſpeech and preaching ſtandeth only in the plauſible words of mans wiſdome, but not in the demonſtration of the Spirit and of power, and yet they preſently take on, if we receive them not as ſpeaking in the Name of God; not waighing, that who<g ref="char:EOLhyphen"/>ſoever ſpeaketh in the Name of God, intituleth God to whatſoever he publiſheth, and conſequently if his doctrine be falſe (as that of our Preachers muſt needs be in regard of the contrarieties found therein) intituleth God himſelfe to falſe doctrine, which is a grievous im<g ref="char:EOLhyphen"/>piety. Upon theſe grounds there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:170652:6"/>let us compare the Preachers of our times with Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, which heretofore ſpake in the Name of God, and we ſhall the better perceive how unlike our Preachers are to them, and there<g ref="char:EOLhyphen"/>fore cannot be their ſucceſſours, as they pretend, nor true Meſſengers of God, but rather falſe Prophets, a<g ref="char:EOLhyphen"/>gainſt whom God himſelfe de<g ref="char:EOLhyphen"/>nounceth a woe, for running, when he hath not ſent them, and propheſying, when he hath not ſpoken to them. For Chriſt and his Apoſtles were certaine of the do<g ref="char:EOLhyphen"/>ctrin that they preached, and there<g ref="char:EOLhyphen"/>fore conſtantly taught in one and the ſame ſtraine; but our Preachers are altogether uncertaine of theirs, and thereupon bewray ſo much
+<pb facs="tcp:170652:6"/>ſickleneſſe in their teaching. They required not that men ſhould be<g ref="char:EOLhyphen"/>leeve them as coming from God, unleſſe they did the works of God; but our Preachers, though deſtitute of divine power, doe yet fall foule upon all thoſe who do but make a queſtion of their calling. They, though they were both themſelves infallibly aſsured of their doctrine, and could by miracles make their hearers alſo infallibly aſsured of it, yet never deſired that Refractories ſhould be compelled to embrace it; though thereby they ſhould have been compelled to nothing but the truth; but our Preachers, though they be at a loſs, as to the exact and entire truth of the Goſpell, and not able to beget a certainty in their
+<pb facs="tcp:170652:7"/>hearers, yet never ceaſe to impor<g ref="char:EOLhyphen"/>tune the aſsiſtance of the Magiſtrate to force the people to ſubmit to their doctrine, though moſt com<g ref="char:EOLhyphen"/>monly it be contrary both to Scrip<g ref="char:EOLhyphen"/>ture, and to common ſenſe. But let us leave proſecuting theſe falſe teachers in the Name of God any further, leſt we too much foreſtall the reaſons that are held forth in this enſuing excellent diſcourſe, which doth ſo canvaſe the preten<g ref="char:EOLhyphen"/>ded divine authority that the Prea<g ref="char:EOLhyphen"/>chers of our times challenge to themſelves, and ſo drive them from poſt to pillar, that they know not where to ſet their foot; ſo that if they would but ſeriouſly waigh what is here offered to their view, they would ſoone pull down their
+<pb facs="tcp:170652:7"/>creſts, and ceaſe to exalt themſelves above their brethren, acknow<g ref="char:EOLhyphen"/>ledging their owne inſtitution to be (as it is indeed,) meerly hu<g ref="char:EOLhyphen"/>mane, and that their doctrine ought not to be any further recei<g ref="char:EOLhyphen"/>ved, then the hearers perceive it to be agreeable to Scripture and rea<g ref="char:EOLhyphen"/>ſon. Which if they did, the Chriſti<g ref="char:EOLhyphen"/>an world would ſoone be at peace, and truth be daily more and more diſcovered, ſince God is not to be found either in the whirlewinde of paſsion, or in the earthquake of perſecution, but in the ſtill voyce of love and mutuall forbearance. And I make no doubt, if this courſe were once taken, but God would meete us going on in his way, and confirme his truth by
+<pb facs="tcp:170652:8"/>ſome cleare and infallible demon<g ref="char:EOLhyphen"/>ſtration, that ſo all contentions a<g ref="char:EOLhyphen"/>bout Religion might at length re<g ref="char:EOLhyphen"/>ceive a quiet and happy Cata<g ref="char:EOLhyphen"/>ſtrophe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170652:8"/>
+            <head>TO THE LAW AND TO The TESTIMONIE.</head>
+            <div type="article">
+               <head>Article <hi>1.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the firſt place we are to hold, that God hath built the Chri<g ref="char:EOLhyphen"/>ſtian Church on no other foun<g ref="char:EOLhyphen"/>dation but Ieſus Chriſt, who by the price of his bloud hath purchaſed her to himſelf for a peculiar poſſeſſion, as being her Lord, Husband, and Lawgiver: and therefore that all right and authority of lawfull and due Eccleſiaſtick Admi<g ref="char:EOLhyphen"/>niſtration ought to be derived from Him alone; and conſequently that the meanes and manner of that Adminiſtration neither can nor ought to
+<pb n="2" facs="tcp:170652:9"/>be any other, then ſuch as argue Chriſt to be their Author: ſo that if in the right, authority, meanes, or manner of the Adminiſtration, both heretofore, and at this day uſed, there occurre a<g ref="char:EOLhyphen"/>ny thing, of which it is certain that it was never inſtituted, commanded, or well-pleaſingly per<g ref="char:EOLhyphen"/>mitted by Chriſt, or at leaſt whereof it may juſt<g ref="char:EOLhyphen"/>ly be doubted, that very thing neither, can nor ought to be made uſe of to the lawfull and due adminiſtration of the Church.</p>
+            </div>
+            <div type="article">
+               <head>2.</head>
+               <p>Wherefore ſince the promiſe of Chriſt, where<g ref="char:EOLhyphen"/>by he hath engaged himſelf to the Church, beha<g ref="char:EOLhyphen"/>ving her ſelf faithfully in the Covenant of God, that he will be preſent with her to the end of the world, graciouſly and effectually to conferre and continue the things aforeſaid, conſiſteth herein, that his Spirit and Word never depart from that Church: It is to be conſidered by all and ſingular Aſſemblies of Chriſtians, who ac<g ref="char:EOLhyphen"/>knowledge the Scripture of the Old and New Teſtament for the only Rule of faith and man<g ref="char:EOLhyphen"/>ners, eſpecially ſuch as are under perſecution, whether that promiſed Spirit and Word of Chriſt be preſent with their Churches, leſt by the abſence of both they appear to have broken the Covenant, and to be without due and lawfull Eccleſiaſtick Adminiſtration, and conſequently ſo far forth without Chriſt.</p>
+            </div>
+            <div type="article">
+               <pb n="3" facs="tcp:170652:9"/>
+               <head>3.</head>
+               <p>As Chriſt is ſole and ſingular, in that he admit<g ref="char:EOLhyphen"/>teth no other perſon or perſons to ſhare with himſelf in the ſpeciall worke for which he was given to the Church by the Father: ſo is the Word of Chriſt ſole and ſingle, becauſe it admit<g ref="char:EOLhyphen"/>teth no other word or words to ſhare with it ſelf in the aforeſaid ſpeciall work, for which it was given to the Church by God.</p>
+            </div>
+            <div type="article">
+               <head>4.</head>
+               <p>It is agreed upon amongſt all Aſſemblies, that acknowledge none but the Scripture of the Old and New Teſtament for the only Rule of faith and manners, that that promiſed VVord of Chriſt was therefore, amongſt other things per<g ref="char:EOLhyphen"/>taining to that work, given to the Church by God, that it might be a wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true outward meanes, whereby in an ordinary way ſhe might attain to ſalvation.</p>
+            </div>
+            <div type="article">
+               <head>5.</head>
+               <p>For if that VVord were not ſuch a meanes, the belief of all things built upon it muſt needs ſtag<g ref="char:EOLhyphen"/>ger; neither could any man thence challenge to himſelf that undoubted certainty of faith; and conſequently no true certainty of faith, but only opinion ſhould poſſeſſe the minds of all Chri<g ref="char:EOLhyphen"/>ſtians; which God forbid.</p>
+            </div>
+            <div type="article">
+               <pb n="4" facs="tcp:170652:10"/>
+               <head>6.</head>
+               <p>Since therefore the ordinary outward means gi<g ref="char:EOLhyphen"/>ven to the Church by God, for the attainment of faith and ſalvation, is that ſole and ſingle promi<g ref="char:EOLhyphen"/>ſed Word of Chriſt, wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, whoſe native chara<g ref="char:EOLhyphen"/>cter it is, to be free from all, even the leaſt error, and to be meer truth: It is to be conſidered, whether God and Chriſt to this end would have the cheife worſhip of the New Teſtament (to wit, the due and lawfull preaching of the Goſpel, which is to be performed in the Name of God, by Miniſters ſpecially and duly called thereunto, as the chief part of Eccleſiaſtick Adminiſtration) begun and ſet on foot by that promiſed Word only, or not.</p>
+            </div>
+            <div type="article">
+               <head>7.</head>
+               <p>Certainly if you conſider the firſt preaching of the Goſpell, performed by <hi>John the Baptiſt,</hi> by our <hi>Lord</hi> himſelfe, and his Apoſtles, you cannot deny, that God would have it at the firſt begun with that promiſed Word only, being, as it hath been ſaid, wholly, intrinſically, undoubtedly, and meerly true.</p>
+            </div>
+            <div type="article">
+               <head>8.</head>
+               <p>VVherefore the firſt lawfull preaching of the Goſpell was performed by word of mouth, and that ſuch as was ſincere, ſound, unblamable, abi<g ref="char:EOLhyphen"/>ding for ever and of which it might be truly and undoubtedly ſaid, <hi>Thy Word is Truth.</hi>
+               </p>
+            </div>
+            <div type="article">
+               <pb n="5" facs="tcp:170652:10"/>
+               <head>9.</head>
+               <p>In like manner you cannot deny, that the a<g ref="char:EOLhyphen"/>foreſaid Beginners and Preachers of the Goſpel, being ſpecially and duly called thereunto, prea<g ref="char:EOLhyphen"/>ched that Word in the name of God, or in the ſtead, and by the authority of God; ſo that being Embaſſadors for God, they ſuſtained his perſon, and conſequently, to hear them, was as much as to hear God himſelf ſpeaking by them; ſo that their word was wholly, intrinſically, undoubted<g ref="char:EOLhyphen"/>ly, and meerly true, and both they that preached it, and they that received them for Miniſters preaching in the name of God, were infallibly aſſured of the truth of that word, as of the very VVord of God.</p>
+            </div>
+            <div type="article">
+               <head>10.</head>
+               <p>Now as there is but one Goſpel, <hi rend="sup">a</hi> 
+                  <hi>Gal.</hi> 1. <hi>ver.</hi> 6, 7. ſo there is but one true and genuine word of the Goſpel, <hi rend="sup">b</hi> 
+                  <hi>ver.</hi> 8, 9. which is, and is called the truth, <hi rend="sup">c</hi> 
+                  <hi>Ioh.</hi> 17. <hi>v.</hi> 14.17. the word of truth, <hi rend="sup">d</hi> 
+                  <hi>Eph.</hi> 1. <hi>ver.</hi> 13. the ſincere rationall milke, <hi rend="sup">e</hi> 1 <hi>Pet.</hi> 2. <hi>v.</hi> 2. not the word of men, but as it is indeed the word of God, <hi rend="sup">f</hi> 1 <hi>Theſ.</hi> 2. <hi>v.</hi> 13. which was not yea and nay, but yea, <hi rend="sup">g</hi> 2 <hi>Cor.</hi> 1. <hi>v.</hi> 18, 19, 20. with <hi>chap.</hi> 7.14 alſo the word of God that abi<g ref="char:EOLhyphen"/>deth for ever, <hi rend="sup">i</hi> 1 <hi>Pet.</hi> 1. <hi>v.</hi> 25. that is, the promi<g ref="char:EOLhyphen"/>ſed word of Chriſt, wholly, intrinſically un<g ref="char:EOLhyphen"/>doubtedly, and meerly true: to declare which, they that were ſent as Embaſſadors for Chriſt,
+<pb n="6" facs="tcp:170652:11"/>had an expreſſe Commiſſion, and were furniſht with ſufficient gifts for the due performance of their Embaſſie, as cannot be denied, <hi>vid.</hi> 
+                  <hi rend="sup">l</hi> 2 <hi>Cor.</hi> 5. <hi>v.</hi> 20. 1 <hi>Theſ.</hi> 2. <hi>v.</hi> 13. <hi rend="sup">m</hi> 
+                  <hi>Eph.</hi> 4. <hi>v.</hi> 11. <hi rend="sup">n</hi> 1 <hi>Cor.</hi> 2. <hi>v.</hi> 12, 13, 16. <hi>Acts</hi> 5.20. <hi>Rom.</hi> 6.17. and <hi>chap.</hi> 16. <hi>v.</hi> 17. 1 <hi>Cor.</hi> 4. <hi>v.</hi> 17. 2 <hi>Ioh. v.</hi> 9, 10. <hi>Iude v.</hi> 3. <hi rend="sup">o</hi> 2 <hi>Cor.</hi> 3. <hi>v.</hi> 5, 6. and <hi>chap.</hi> 4. <hi>v.</hi> 1, 2. and <hi>chap.</hi> 6. <hi>v.</hi> 4, 7. and <hi>chap.</hi> 7. <hi>v.</hi> 14.</p>
+            </div>
+            <div type="notes">
+               <div n="a" type="note">
+                  <p>
+                     <hi>Gal. 1. v. 6.</hi> I marvell, that ye are ſo ſoon remo<g ref="char:EOLhyphen"/>ved from him that called you into the grace of Chriſt, unto another goſpel:</p>
+                  <p>
+                     <hi>v. 7.</hi> Which is not another; but there be ſome that trouble you, and would pervert the Goſpel of Chriſt.</p>
+               </div>
+               <div n="b" type="note">
+                  <p>
+                     <hi>v. 8.</hi> But though we, or an angel from heaven preach any other goſpel unto you, then that which we have preached unto you, let him be accurſed.</p>
+                  <p>
+                     <hi>v. 9.</hi> As we ſaid before, ſo ſay I now again, If any man preach any other goſpel unto you, then that ye have received, let him be accur<g ref="char:EOLhyphen"/>ſed.</p>
+               </div>
+               <div n="c" type="note">
+                  <p>
+                     <hi>Ioh. 17. v. 14.</hi> I have given them thy word, and the world hath hated them, becauſe they are not of the world, even as I am not of the world.</p>
+                  <p>
+                     <hi>v. 17.</hi> Sanctifie them through thy truth, thy word is truth.</p>
+               </div>
+               <div n="d" type="note">
+                  <p>
+                     <hi>Eph. 1. v. 13.</hi> In whom ye alſo truſted after that ye heard the word of truth, the goſpel of your ſalvation: in whom alſo after that ye believed,
+<pb n="7" facs="tcp:170652:11"/>ye were ſealed with that holy Spirit of promiſe.</p>
+               </div>
+               <div n="e" type="note">
+                  <p>
+                     <hi>1 Pet. 2. v. 2.</hi> As new born babes deſire the ſincere milk of the word, that ye may grow thereby.</p>
+               </div>
+               <div n="f" type="note">
+                  <p>
+                     <hi>1 Theſ. 2. v. 13.</hi> For this cauſe alſo thank we God without ceaſing, becauſe when ye received the word of God which ye heard of us, ye received is not as the word of men, but (as it is in truth) the word of God, which effectually worketh alſo in you that believe.</p>
+               </div>
+               <div n="g" type="note">
+                  <p>
+                     <hi>2 Cor. 1. v. 18.</hi> But as God is true, our word toward you, was not yea and nay.</p>
+                  <p>
+                     <hi>v. 19.</hi> For the Sonne of God Jeſus Chriſt, who was preached among you by us, even by me, and Sylvanus, and Timotheus, was not yea and nay, but in him was yea.</p>
+                  <p>
+                     <hi>v. 20.</hi> For all the promiſes of God in him are yea, and in him amen, unto the glory of God by us.</p>
+                  <p>
+                     <hi>chap. 7. v. 14.</hi> For if I have boaſted any thing to him of you, I am not aſhamed; but as we ſpake all things to you in truth, even ſo our boaſting which I made before Titus is found a truth.</p>
+               </div>
+               <div n="i" type="note">
+                  <p>
+                     <hi>1 Pet. 1. v. 25.</hi> But the word of the Lord endureth for ever. And this is the word which by the goſpel is preached unto you.</p>
+               </div>
+               <div n="l" type="note">
+                  <p>
+                     <hi>2 Cor. 5. v. 20.</hi> Now then we are ambaſſadours for Chriſt, as though God did beſeech you by us; we pray you in Chriſts ſteed, be ye reconciled to God.</p>
+                  <p>
+                     <hi>1 Theſ. 2. v. 13.</hi> For this cauſe alſo thank we
+<pb n="8" facs="tcp:170652:12"/>God without ceaſing, becauſe when ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh alſo in you that beleeve.</p>
+               </div>
+               <div n="m" type="note">
+                  <p>
+                     <hi>Epheſ. 4. v. 11.</hi> And he gave ſome, Apoſtles: and ſome, Prophets: and ſome, Evangeliſts: and ſome, Paſtors and Teachers.</p>
+               </div>
+               <div n="n" type="note">
+                  <p>
+                     <hi>1 Cor. 2. v. 12.</hi> Now we have received, not the ſpirit of the world, but the Spirit which is of God, that we might know the things that are freely given to us of God.</p>
+                  <p>
+                     <hi>v. 13.</hi> Which things alſo we ſpeak, not in the words which mans wiſdome teacheth, but which the holy Ghoſt teacheth; comparing ſpirituall things with ſpirituall.</p>
+                  <p>
+                     <hi>v. 16.</hi> For who hath known the minde of the Lord, that he may inſtruct him? But we have the minde of Chriſt.</p>
+                  <p>
+                     <hi>Acts 5. v. 20.</hi> Go, ſtand and ſpeak in the temple to the people, all the words of this life.</p>
+                  <p>
+                     <hi>Rom. 6. v. 17.</hi> But God be thanked, that ye were the ſervants of ſinne, but ye have obeyed from the heart that form of doctrin which was delive<g ref="char:EOLhyphen"/>red you.</p>
+                  <p>
+                     <hi>chap. 16. v. 17.</hi> Now I beſeech you, brethren, marke them which cauſe diviſions and offences, contrary to the doctrine which ye have learned, and avoid them.</p>
+                  <pb n="9" facs="tcp:170652:12"/>
+                  <p>
+                     <hi>1 Cor. 4. v. 17.</hi> For this cauſe have I ſent unto you Timotheus, who is my beloved ſonne, and faithfull in the Lord, who ſhall bring you into remembrance of my wayes which be in Chriſt, as I teach every where in every Church.</p>
+                  <p>
+                     <hi>2 Ioh. v. 9.</hi> Whoſoever tranſgreſſeth and abideth not in the doctrin of Chriſt, hath not God: he that abideth in the doctrin of Chriſt, he hath both the Father and the Son.</p>
+                  <p>
+                     <hi>v. 10.</hi> If there come any unto you, and bring not this doctrin, receive him not into your houſe, nei<g ref="char:EOLhyphen"/>ther bid him God ſpeed.</p>
+                  <p>
+                     <hi>Iude v. 3.</hi> Beloved, when I gave all diligence to write unto you of the common ſalvation: it was needfull for me to write unto you, and exhort you that ye ſhould earneſtly contend for the faith which was once delivered unto the ſaints.</p>
+               </div>
+               <div n="o" type="note">
+                  <p>
+                     <hi>2 Cor. 3. v. 5.</hi> Not that we are ſufficient of our ſelves to thinke any thing as of our ſelves: but our ſufficiencie is of God.</p>
+                  <p>
+                     <hi>v. 6.</hi> Who alſo hath made us able miniſters of the new Teſtament, not of the letter, but of the ſpirit: for the letter killeth, but the ſpirit giveth life.</p>
+                  <p>
+                     <hi>chap. 4. v. 1.</hi> Therefore ſeeing we have this mi<g ref="char:EOLhyphen"/>niſtery, as we have received mercy we faint not.</p>
+                  <p>
+                     <hi>v. 2.</hi> But have renounced the hidden things of diſhoneſty, not walking. in craftineſſe, nor handling the word of God deceitfully, but by manifeſtation of the truth, commending our
+<pb n="10" facs="tcp:170652:13"/>ſelves to every mans conſcience in the ſight of God.</p>
+                  <p>
+                     <hi>chap. 6. v. 4.</hi> But in all things approving our ſelves as the miniſters of God, in much patience, in afflictions, in neceſſities, in diſtreſſes.</p>
+                  <p>
+                     <hi>v. 7.</hi> By the word of truth, by the power of God, by the armour of righteouſneſſe, on the right hand, and on the left.</p>
+                  <p>
+                     <hi>chap. 7. v. 14.</hi> For if I have boaſted any thing to him of you, I am not aſhamed; but as we ſpake all things to you in truth, even ſo our boaſting which I made before Titus is found a truth.</p>
+               </div>
+            </div>
+            <div type="article">
+               <head>11.</head>
+               <p>Now for as much as the Miniſters of particu<g ref="char:EOLhyphen"/>lar Churches were in the Apoſtles times given by Chriſt, <hi rend="sup">a</hi> 
+                  <hi>Epheſ.</hi> 4.11. <hi>Tit.</hi> 1.5, 6, 7. 1 <hi>Cor.</hi> 14.37. to preach the true and genuine VVord of the Goſpell, <hi rend="sup">b</hi> 
+                  <hi>Tit.</hi> 1.5.6, 7, 9. and <hi>cap.</hi> 2.7, 8. 2 <hi>Tim.</hi> 2. v. 2. <hi>Epheſ.</hi> 4.12, 13, 14, 15. by way of Embaſ<g ref="char:EOLhyphen"/>ſage for Chriſt, <hi rend="sup">c</hi> 2 <hi>Cor.</hi> 1.19. and <hi>chap.</hi> 5.20. <hi>Tit.</hi> 1.5, 6, 7. and 1 <hi>Cor.</hi> 4. <hi>v.</hi> 1, 2. 1 <hi>Theſ.</hi> 1.1. and <hi>chap.</hi> 2. <hi>v.</hi> 13. <hi rend="sup">d</hi> 2 <hi>Tim.</hi> 4. <hi>v.</hi> 2. and <hi>cha.</hi> 2. <hi>v.</hi> 2. <hi>Tit.</hi> 1. <hi>v.</hi> 9. It is evident that they alſo had an expreſſe Com<g ref="char:EOLhyphen"/>miſſion, <hi rend="sup">e</hi> 1 <hi>Cor.</hi> 1. <hi>v.</hi> 1. with <hi>chap.</hi> 2. <hi>v.</hi> 12, 13, 14, 15, 16. alſo 2 <hi>Tim.</hi> 1.13, 14. and <hi>chap.</hi> 2. <hi>v.</hi> 2. <hi>Tit.</hi> 1.9, 10, 11. <hi>Acts</hi> 15.24. <hi>Rom.</hi> 6.17. and <hi>chap.</hi> 16. v. 17. 2 <hi>Ioh.</hi> v. 9, 10. and were furniſht with gifts ſufficient for the diſcharge thereof, <hi rend="sup">f</hi> 2 <hi>Cor.</hi> 1.1.19. with <hi>chap.</hi> 3. v. 5, 6. <hi>Acts</hi> 14.22, 23. and <hi>chap.</hi>
+                  <pb n="11" facs="tcp:170652:13"/>20. <hi>v.</hi> 17, 18, 20, 21. <hi>&amp;c.</hi> 2 <hi>Tim.</hi> 2.2. <hi>Tit.</hi> 1.9, 10, 11. and conſequently were able to performe it in a due manner, <hi rend="sup">g</hi> 
+                  <hi>Acts</hi> 20.28, 31, 32. 2 <hi>Tim.</hi> 2.2. and did accordingly performe it, (as it ſhall by and by be related) <hi rend="sup">h</hi> 2 <hi>Cor.</hi> 1.19. with <hi>chap.</hi> 4. <hi>v.</hi> 1, 2. and 1 <hi>Cor.</hi> 16.10. <hi>Acts</hi> 15.35. <hi>Apoc.</hi> 2.8, 9, 10, 12, 13.18, 19. and <hi>chap.</hi> 3.7, 8, 9, 10, 11.</p>
+            </div>
+            <div type="notes">
+               <div n="a" type="note">
+                  <p>
+                     <hi>Ephe. 4. v. 11.</hi> And he gave ſome, Apoſtles: and ſome prophets: and ſome, evangeliſts: and ſome paſtours and teachers.</p>
+                  <p>
+                     <hi>Tit. 1. v. 5.</hi> For this cauſe left I thee in Crete, that thou ſhouldeſt ſet in order the things that are wanting, and ordain elders in every city, as I had appointed thee.</p>
+                  <p>
+                     <hi>v. 6.</hi> If any be blameleſſe, the husband of one wife, having faithfull children not accuſed of riot or unruly.</p>
+                  <p>
+                     <hi>v. 7.</hi> For a biſhop muſt be blameleſſe, as the ſtew<g ref="char:EOLhyphen"/>ard of God: not ſelf-willed, not ſoon angry, not given to wine, no ſtriker, not given to filthy lucre.</p>
+                  <p>
+                     <hi>1 Cor. 14. v. 37.</hi> If any man think himſelfe to be a prophet, or ſpirituall, let him acknowledge that the things that I write unto you, are the commandements of the Lord.</p>
+               </div>
+               <div n="b" type="note">
+                  <p>
+                     <hi>Tit. 1. v. 5.</hi> For this cauſe left I thee in Crete, that thou ſhouldeſt ſet in order the things that are wanting, and ordaine elders in every city, as I had appointed thee.</p>
+                  <p>
+                     <hi>v. 6.</hi> If any be blameleſſe, the husband of one
+<pb n="12" facs="tcp:170652:14"/>wife, having faithfull children not accuſed of ri<g ref="char:EOLhyphen"/>ot or unruly.</p>
+                  <p>
+                     <hi>v. 7.</hi> For a biſhop muſt be blameleſſe, as the ſteward of God: not ſelf willed, not ſoon angry, not given to wine, no ſtriker, not given to filthy lucre.</p>
+                  <p>
+                     <hi>chap. 2. v. 7.</hi> In all things ſhewing thy ſelfe a patterne of good workes: in doctrine ſhewing uncorruptneſſe, gravity, ſincerity,</p>
+                  <p>
+                     <hi>v. 8.</hi> Sound ſpeech that cannot be condemned, that he that is of the contrary part, may be aſha<g ref="char:EOLhyphen"/>med, having no evill thing to ſay of you.</p>
+                  <p>
+                     <hi>2. Tim. 2. v. 2.</hi> And the things that thou haſt heard of me among many witneſſes, the ſame commit thou to faithfull men, who ſhall be able to teach others alſo.</p>
+                  <p>
+                     <hi>Epheſ. 4. v. 12.</hi> For the perfecting of the ſaints, for the worke of the miniſtery, for the edifying of the body of Chriſt:</p>
+                  <p>
+                     <hi>v. 13.</hi> Till we all come in the unity of the faith, and of the knowledge of the Sonne of God, unto a perfect man, unto the meaſure of the ſtature of the fulneſſe of Chriſt:</p>
+                  <p>
+                     <hi>v. 14.</hi> That we henceforth be no more children, toſſed to and fro, and carried about with every winde of doctrine, by the ſleight of men, and cun<g ref="char:EOLhyphen"/>ning craftineſſe, whereby they lie in waite to de<g ref="char:EOLhyphen"/>ceive:</p>
+                  <p>
+                     <hi>v. 15.</hi> But ſpeaking the truth in love, may grow
+<pb n="13" facs="tcp:170652:14"/>up into him in all things, which is the head, even Chriſt.</p>
+               </div>
+               <div n="c" type="note">
+                  <p>
+                     <hi>2 Cor. 1. v. 1.</hi> Paul an Apoſtle of Jeſus Chriſt, by the will of God, and Timothy our brother, un<g ref="char:EOLhyphen"/>to the Church of God which is at Corinth, with all the ſaints which are in all Achaia.</p>
+                  <p>
+                     <hi>v. 19.</hi> For the Sonne of God Jeſus Chriſt, who was preached among you: by us, even by me, and Sylvanus, and Timotheus, was not yea and nay, but in him was yea.</p>
+                  <p>
+                     <hi>Chap. 5. v. 20.</hi> Now then we are ambaſſadors for Chriſt, as though God did beſeech you by us; we pray you in Chriſts ſtead, be ye reconciled to God.</p>
+                  <p>
+                     <hi>Tit. 1. v. 5.</hi> For this cauſe left I thee in Crete that thou ſhouldeſt ſet in order the things that are wanting, and ordaine elders in every city, as I had appointed thee.</p>
+                  <p>
+                     <hi>v. 6.</hi> If any be blameleſſe, the husband of one wife, having faithfull children not accuſed of ri<g ref="char:EOLhyphen"/>ot or unruly.</p>
+                  <p>
+                     <hi>v. 7.</hi> For a biſhop muſt be blameleſſe, as the ſtew<g ref="char:EOLhyphen"/>ard of God: not ſelf willed, not ſoon angry, not given to wine, no ſtriker, nor given to filthy lucre.</p>
+                  <p>
+                     <hi>1 Cor. 4. v. 1.</hi> Let a man ſo account of us, as of the Miniſters of Chriſt, and ſtewards of the my<g ref="char:EOLhyphen"/>ſteries of God.</p>
+                  <p>
+                     <hi>v. 2.</hi> Moreover it is re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quired in Stewards, that a man be found faithfull.</p>
+                  <pb n="14" facs="tcp:170652:15"/>
+                  <p>
+                     <hi>1 Theſ. 1. v. 1.</hi> Paul, and Sylvanus, and Timo<g ref="char:EOLhyphen"/>theus, unto the Church of the Theſſalonians, which is in God the Father, and in the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt: grace be unto you, and peace from God our Father, and the Lord Jeſus Chriſt.</p>
+                  <p>
+                     <hi>chap. 2. v. 13.</hi> For this cauſe alſo thank we God without ceaſing, becauſe when ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh alſo in you that believe.</p>
+               </div>
+               <div n="d" type="note">
+                  <p>
+                     <hi>2 Tim. 4. v. 2.</hi> Preach the word, be inſtant in ſeaſon, out of ſeaſon, reprove, rebuke, exhort with all long ſuffering, and doctrine.</p>
+                  <p>
+                     <hi>chap. 2. v. 2.</hi> And the things that thou haſt heard of me among many witneſſes the ſame commit thou to faithfull men, who ſhall be able to teach others alſo.</p>
+                  <p>
+                     <hi>Tit. 1. v. 9.</hi> Holding faſt the faithfull word, as he hath been taught, that he may be able by ſound doctrine, both to exhort and to convince the gainſayers.</p>
+               </div>
+               <div n="e" type="note">
+                  <p>
+                     <hi>1 Cor. 1. v. 1.</hi> Paul called to be an Apoſtle of Jeſus Chriſt, through the will of God, and Soſt<g ref="char:EOLhyphen"/>henes our brother.</p>
+                  <p>
+                     <hi>chap. 2. v. 12.</hi> Now we have received, not the ſpirit of the world, but the Spirit which is of God, that we might know the things that are freely given to us of God.</p>
+                  <pb n="15" facs="tcp:170652:15"/>
+                  <p>
+                     <hi>v. 13.</hi> Which things alſo we ſpeake, not in the words which mans wiſdome teacheth, but which the Holy Ghoſt teacheth; comparing ſpirituall things with ſpirituall.</p>
+                  <p>
+                     <hi>v. 14.</hi> But the naturall man receiveth not the things of the Spirit of God, for they are fooliſh<g ref="char:EOLhyphen"/>neſſe unto him; neither can he know them, be<g ref="char:EOLhyphen"/>cauſe they are ſpiritually diſcerned.</p>
+                  <p>
+                     <hi>v. 15.</hi> But he that is ſpirituall, judgeth all things, yet he himſelfe is judged of no man.</p>
+                  <p>
+                     <hi>v. 16.</hi> For who hath known the mind of the Lord, that he may inſtruct him? But we have the minde of Chriſt.</p>
+                  <p>
+                     <hi>2 Tim. 1. v. 13.</hi> Hold faſt the forme of ſound words, which thou haſt heard of me, in faith and love which is in Chriſt Jeſus.</p>
+                  <p>
+                     <hi>v. 14.</hi> That good thing which was committed unto thee, keepe by the Holy Ghoſt which dwel<g ref="char:EOLhyphen"/>leth in us.</p>
+                  <p>
+                     <hi>chap. 2. v. 2.</hi> And the things that thou haſt heard of me among many witneſſes, the ſame commit thou to faithfull men, who ſhall be able to teach others alſo.</p>
+                  <p>
+                     <hi>Tit. 1. v. 9.</hi> Holding faſt the faithfull word, as he hath been taught, that he may be able by ſound doctrine, both to exhort and to convince the gainſayers.</p>
+                  <p>
+                     <hi>v. 10.</hi> For there are many unruly and vain tal<g ref="char:EOLhyphen"/>kers and deceivers, eſpecially they of the circum<g ref="char:EOLhyphen"/>ciſion:</p>
+                  <pb n="16" facs="tcp:170652:16"/>
+                  <p>
+                     <hi>v. 11.</hi> Whoſe mouthes muſt be ſtopped, who ſub<g ref="char:EOLhyphen"/>vert whole houſes, teaching things which they ought not, for filthy lucres ſake.</p>
+                  <p>
+                     <hi>Acts 15. v. 24.</hi> Foraſmuch as we have heard, that certain which went out from us have trou<g ref="char:EOLhyphen"/>bled you with words, ſubverting your ſoules, ſay<g ref="char:EOLhyphen"/>ing, Ye muſt be circumciſed, and keepe the law, to whom we gave no ſuch commande<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>
+                     <hi>Rom. 6. v. 17.</hi> But God be thanked, that yee were the ſervants of ſin, but ye have obeyed from the heart that form of doctrine which was deli<g ref="char:EOLhyphen"/>vered you.</p>
+                  <p>
+                     <hi>chap. 16. v. 17.</hi> Now I beſeech you, brethren, marke them which cauſe diviſions and offences, contrary to the doctrine which ye have learned, and avoid them.</p>
+                  <p>
+                     <hi>2 John v. 9.</hi> Whoſoever tranſgreſſeth, and abi<g ref="char:EOLhyphen"/>deth not in the doctrine of Chriſt, hath not God: he that abideth in the doctrine of Chriſt, he hath both the Father and the Sonne.</p>
+                  <p>
+                     <hi>v. 10.</hi> If there come any unto you, and bring not this doctrine, receive him not into your houſes neither bid him God ſpeed.</p>
+               </div>
+               <div n="f" type="note">
+                  <p>
+                     <hi>2 Cor. 1. v. 1.</hi> Paul an Apoſtle of Jeſus Chriſt, by the will of God, and Timothy our brother, unto the Church of God which is at Corinth, with all the ſaints which are in all Achaia.</p>
+                  <p>
+                     <hi>v. 19.</hi> For the Sonne of God Jeſus Chriſt, who
+<pb n="17" facs="tcp:170652:16"/>was preached among you by us, even by me, and Sylvanus, and Timotheus, was not yea and nay, but in him was yea.</p>
+                  <p>
+                     <hi>chap. 3. v. 5.</hi> Not that we are ſufficient of our ſelves to thinke any thing as of our ſelves: but our ſufficiency is of God.</p>
+                  <p>
+                     <hi>v. 6.</hi> Who alſo hath made us able Miniſters of the New Teſtament, not of the letter, but of the Spirit: for the letter killeth, but the Spirit giveth life. <hi>Acts 14. v. 22.</hi> Confirming the ſoules of the Diſciples, and exhorting them to continue in the faith, and that we muſt through much tribula<g ref="char:EOLhyphen"/>tion enter into the Kingdome of God.</p>
+                  <p>
+                     <hi>v. 23.</hi> And when they had ordained them elders in every Church, and had prayed with faſting, they commended them to the Lord, on whom they be<g ref="char:EOLhyphen"/>leeved.</p>
+                  <p>
+                     <hi>chap. 20. v. 17.</hi> And from Miletus he ſent to Epheſus, and called the elders of the Church.</p>
+                  <p>
+                     <hi>v. 18.</hi> And when they were come to him, he ſaid unto them, Ye know from the firſt day that I came into Aſia, after what manner I have beene with you at all ſeaſons.</p>
+                  <p>
+                     <hi>v. 20.</hi> And how I kept back nothing that was profitable unto you, but have ſhewed you, and have taught you publickly, and from houſe to houſe,</p>
+                  <p>
+                     <hi>v. 21.</hi> Teſtifying both to the Jewes and alſo to the Greekes, repentance toward God, and faith toward our Lord Jeſus Chriſt.</p>
+                  <pb n="18" facs="tcp:170652:17"/>
+                  <p>
+                     <hi>v. 25.</hi> And now behold, I know that ye all, a<g ref="char:EOLhyphen"/>mong whom I have gone preaching the King<g ref="char:EOLhyphen"/>dome of God, ſhall ſee my face no more.</p>
+                  <p>
+                     <hi>v. 26.</hi> Wherefore I take you to record this day, that I am pure from the blood of all men.</p>
+                  <p>
+                     <hi>v. 27.</hi> For I have not ſhunned to declare unto you all the counſell of God.</p>
+                  <p>
+                     <hi>v. 32.</hi> And now brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are ſanctified.</p>
+                  <p>
+                     <hi>2. Tim. 2. v. 2.</hi> And the things that thou haſt heard of me among many witneſſes, the ſame commit thou to faithfull men, who ſhall be able to teach others alſo.</p>
+                  <p>
+                     <hi>Tit. 1. v. 9.</hi> Holding faſt the faithfull word, as he hath been taught, that he may be able by ſound doctrine, both to exhort and to convince the gainſayers.</p>
+                  <p>
+                     <hi>v. 10.</hi> For there are many unruly and vain talkers and deceivers, eſpecially they of the circumciſion:</p>
+                  <p>
+                     <hi>v. 11.</hi> Whoſe mouthes muſt be ſtopped, who ſub<g ref="char:EOLhyphen"/>vert whole houſes, teaching things which they ought not, for filthy lucres ſake.</p>
+               </div>
+               <div n="g" type="note">
+                  <p>
+                     <hi>Act. 20. v. 28.</hi> Take heed therefore unto your ſelves, and to all the flocke, over the which the Holy Ghoſt hath made you overſeers, to feed the Church of God, which he hath purchaſed with his own blood.</p>
+                  <pb n="19" facs="tcp:170652:17"/>
+                  <p>
+                     <hi>v. 31.</hi> Therefore watch, and remember that by the ſpace of three years, I ceaſed not to warn eve<g ref="char:EOLhyphen"/>ry one night and day with tears.</p>
+                  <p>
+                     <hi>v. 32.</hi> And now brethren, I commend you to God and to the word of his grace, which is able to build you up, and to give you an in inheritance among all them which are ſanctified.</p>
+                  <p>
+                     <hi>2 Tim. 2. v. 2.</hi> And the things that thou haſt heard of me among many witneſſes, the ſame commit thou to faithfull men, who ſhall be able to teach others alſo.</p>
+               </div>
+               <div n="h" type="note">
+                  <p>
+                     <hi>2 Cor. 1. v. 1.</hi> Paul an apoſtle of Jeſus Chriſt by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the ſaints which are in all Achaia.</p>
+                  <p>
+                     <hi>v. 19.</hi> For the Son of God Ieſus Chriſt, who was preached among you by us, even by me, and Sil<g ref="char:EOLhyphen"/>vanus, and Timotheus, was not yea and nay, but in him was yea.</p>
+                  <p>
+                     <hi>chap. 4. v. 1.</hi> Therefore ſeeing we have this mi<g ref="char:EOLhyphen"/>niſtery, as we have received mercy we faint not, <hi>v. 2.</hi> But have renounced the hidden things of diſhoneſty, not walking in craftineſs, nor handling the word of God deceitfully, but by manifeſtation of the truth, commending our ſelves to every mans conſcience in the ſight of God.</p>
+                  <p>
+                     <hi>1 Cor. 16. v. 10.</hi> Now if Timotheus come, ſee that he may be with you without fear: for hee
+<pb n="20" facs="tcp:170652:18"/>worketh the work of the Lord, as I alſo doe.</p>
+                  <p>
+                     <hi>Act. 15. v. 35.</hi> Paul alſo and Barnabas continu<g ref="char:EOLhyphen"/>ed in Antioch, teaching and preaching the word of the Lord, with many others alſo.</p>
+                  <p>
+                     <hi>Apoc. 2. v. 8.</hi> And unto the angel of the church in Smyrna, write, Theſe things ſaith the firſt and the laſt, which was dead, and is alive,</p>
+                  <p>
+                     <hi>v. 9.</hi> I know thy works, and tribulation, and po<g ref="char:EOLhyphen"/>verty, (but thou art rich) and I know the blaſ<g ref="char:EOLhyphen"/>phemy of them which ſay they are Jews and are not, but are the Synagogue of Satan.</p>
+                  <p>
+                     <hi>v. 10.</hi> Fear none of thoſe things which thou ſhalt ſuffer: behold, the devil ſhall caſt ſome of you in<g ref="char:EOLhyphen"/>to priſon, that ye may be tried, and ye ſhall have tribulation ten dayes: be thou faithfull unto death, and I will give thee a crown of life.</p>
+                  <p>
+                     <hi>v. 12.</hi> And to the angel of the church in Perga<g ref="char:EOLhyphen"/>mos, write, Theſe things ſaith he, which hath the ſharp ſword with two edges,</p>
+                  <p>
+                     <hi>v. 13.</hi> I know thy works, and where thou dwel<g ref="char:EOLhyphen"/>leſt, even where Satans ſeat is, and thou holdeſt faſt my name, and haſt not denied my faith, even in thoſe dayes wherein Antipas was my faithfull martyr, who was ſlain among you, where Satan dwelleth.</p>
+                  <p>
+                     <hi>v. 18.</hi> And unto the angel of the church in Thy<g ref="char:EOLhyphen"/>atyra, write, Theſe things ſaith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine braſſe,</p>
+                  <pb n="21" facs="tcp:170652:18"/>
+                  <p>
+                     <hi>v. 19.</hi> I know thy works, and charity, and ſervice, and faith, and thy patience, and thy works, and the laſt to be more then the firſt.</p>
+                  <p>
+                     <hi>chap. 3. v. 7.</hi> And to the angel of the church in Philadelphia, write, Theſe things ſaith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man ſhutteth, and ſhutteth, and no man openeth;</p>
+                  <p>
+                     <hi>v. 8.</hi> I know thy works: behold, I have ſet be<g ref="char:EOLhyphen"/>fore thee an open door, and no man can ſhut it: for thou haſt a little ſtrength, and haſt kept my word, and haſt not denied my name.</p>
+                  <p>
+                     <hi>v. 9.</hi> Behold, I will make them of the Synagogue of Satan, (which ſay they are Jews, and are not, but do lie) behold, I will make them to come and worſhip before thy feet, and to know that I have loved thee.</p>
+                  <p>
+                     <hi>v. 10.</hi> Becauſe thou haſt kept the word of my pa<g ref="char:EOLhyphen"/>tience, I alſo will keep thee from the hour of temptation, which ſhall come upon all the world, to try them that dwell upon the earth.</p>
+                  <p>
+                     <hi>v. 11.</hi> Behold, I come quickly: hold that faſt which thou haſt, that no man take thy crown.</p>
+               </div>
+            </div>
+            <div type="article">
+               <head>12.</head>
+               <p>Since therefore the doctrine of the aforeſaid Beginners and Preachers of the Goſpell, as alſo of the particular Miniſters, to which both were called and gifted by God, and which they could rightly diſcharge, was that ſole and ſingle pro<g ref="char:EOLhyphen"/>miſed
+<pb n="22" facs="tcp:170652:19"/>VVord of Chriſt; there can be no diffe<g ref="char:EOLhyphen"/>rence therein, as to the meere eſſentiall truth thereof: but the perſons which ought to preach it in the Name of God, did herein differ from one another, that ſome of them did alwayes con<g ref="char:EOLhyphen"/>tinue in the meere purity of that word, and nei<g ref="char:EOLhyphen"/>ther would, nor could depart from it, ſuch as were the Apoſtles, and their like: but others might either depart, or not depart from it, ſuch as were the aforeſaid Miniſters of particular Churches: Againe, of theſe perſons, ſome, though they might depart, yet did not depart, ſuch as were thoſe who kept the myſterie of the faith depoſited in a good conſcience, and made uſe of it to the publick Miniſtery in the Name of God, as <hi>Timothy</hi> (1 <hi>Cor.</hi> 16.10. 1 <hi>Tim.</hi> 4.6.) <hi>Titus,</hi> (2 <hi>Cor.</hi> 8.23. and <hi>chap.</hi> 12.18.) <hi>Epaphras,</hi> (<hi>Col.</hi> 1.7.) <hi>Tychicus</hi> (<hi>Col.</hi> 4.7.) and their like, (2 <hi>Cor.</hi> 8.23.) but others, though they might have con<g ref="char:EOLhyphen"/>tinued in the meere purity of that word, yet ei<g ref="char:EOLhyphen"/>ther through the neglect of their gifts, or through the loſſe of a good conſcience, or by the abuſe of their affections, or of ſet purpoſe, did depart from it, ſuch as they may be accounted, <hi>who built wood, hay, and ſtubble upon the foundation,</hi> (1 <hi>Cor.</hi> 3.10, 11, 12.) <hi>who taught ſtrange doctrine,</hi> (1 <hi>Tim.</hi> 1.3, 4.) <hi>and were deceitfull workers,</hi> (2 <hi>Cor.</hi> 11.13.) <hi>and grievous wolves, not ſparing the flock; and ſpeaking perverſe things to draw away the Di<g ref="char:EOLhyphen"/>ſciples
+<pb n="23" facs="tcp:170652:19"/>after them;</hi> (<hi>Acts</hi> 20.29, 30.) as ambiti<g ref="char:EOLhyphen"/>ous and prating <hi>Diotrephes,</hi> (3 <hi>John ver.</hi> 9, 10.) <hi>Hymenaeus, Alexander</hi> and <hi>Philetus,</hi> (1 <hi>Tim.</hi> 1.19, 20. 2 <hi>Tim.</hi> 2.16, 17, 18.) and other falſe tea<g ref="char:EOLhyphen"/>chers of that age: (1 <hi>John</hi> 2.18, 19, 26.) Finally, others, though they continued in the meere puri<g ref="char:EOLhyphen"/>ty of that word, yet being indulgent to ſome particular affection, did not procure the unani<g ref="char:EOLhyphen"/>mous edification of the Church together with o<g ref="char:EOLhyphen"/>ther Miniſters, ſuch as they may be accounted, of whom the Apoſtle ſpeaketh, <hi>Philip.</hi> 1.12, 13. <hi>&amp;c.</hi>
+               </p>
+               <p>Philip. 1. v. 12. <hi>But I would ye ſhould underſtand, brethren, that the things which happened unto me, have fallen out rather unto the furtherance of the goſpel.</hi>
+               </p>
+               <p>v. 13. <hi>So that my bonds in Chriſt are manifeſt in all the palace, and in all other places.</hi>
+               </p>
+               <p>v. 14. <hi>And many of the brethren in the Lord waxing confident by my bonds, are much more bold to ſpeake the word without fear.</hi>
+               </p>
+               <p>v. 15. <hi>Some indeed preach Chriſt even of envie and ſtrife, and ſome alſo of good will.</hi>
+               </p>
+               <p>v. 16. <hi>The one preach Chriſt of contention, not ſincerely, ſuppoſing to adde affliction to my bonds:</hi>
+               </p>
+               <p>v. 17. <hi>But the other of love, knowing that I am ſet for the defence of the goſpel.</hi>
+               </p>
+               <p>v. 18. <hi>What then? notwithſtanding every way,
+<pb n="24" facs="tcp:170652:20"/>whether in pretence, or in truth, Chriſt is preach<g ref="char:EOLhyphen"/>ed, and I therein do rejoyce, yea, and will rejoyce.</hi>
+               </p>
+               <p>v. 19. <hi>For I know that this ſhall turn to my ſal<g ref="char:EOLhyphen"/>vation, through your prayer, and the ſupply of the Spirit of Jeſus Chriſt.</hi>
+               </p>
+            </div>
+            <div type="article">
+               <head>13.</head>
+               <p>But ſince the people of that age had an infal<g ref="char:EOLhyphen"/>lible oyntment, and knew the truth, (1 <hi>John</hi> 2.20, 27.) were confirmed therein, (1 <hi>Pet.</hi> 5.12. 2 <hi>Pet.</hi> 1.12.) were repleniſhed and enriched with all neceſſary knowledge, (<hi>Rom.</hi> 15.14. 1 <hi>Cor.</hi> 1.5, 6, 7, 8.) had mutuall faith with the A<g ref="char:EOLhyphen"/>poſtles, alike precious, and moſt holy, (<hi>Rom.</hi> 1.8, 12. 2 <hi>Pet.</hi> 1.1. <hi>Jude ver.</hi> 20.) had learnt the doctrine of the Apoſtles, and had beleeved it as it was preached by them, and had received it, (<hi>Rom.</hi> 16.17. 2 <hi>Theſ.</hi> 2.15. 1 <hi>Cor.</hi> 15.11. <hi>Heb.</hi> 10.26. <hi>Acts</hi> 8.14.) could retaine that do<g ref="char:EOLhyphen"/>ctrine as it had been delivered to them, (1 <hi>Cor.</hi> 11. 2. <hi>Acts</hi> 2.42.) did altogether abound in faith, and utterance, and knowledge, and all di<g ref="char:EOLhyphen"/>ligence, (2 <hi>Cor.</hi> 8.7.) had the truth of the Go<g ref="char:EOLhyphen"/>ſpell abiding with them, (<hi>Gal</hi> 2.5.) had beene ſealed with the holy Spirit upon the word of truth, or Goſpell of their Salvation, (<hi>Epheſ.</hi> 1.13.) had the ſanctification of the Spirit, and be<g ref="char:EOLhyphen"/>liefe of the truth, (2 <hi>Theſ.</hi> 2.13.) had the form of the Apoſtles doctrine, (<hi>Rom.</hi> 6.17. <hi>Jude v.</hi> 3.) could try the Spirits whether they were of God,
+<pb n="25" facs="tcp:170652:20"/>(1 <hi>John</hi> 4.1, 2, 3. 2 <hi>John v.</hi> 9, 10. <hi>Heb.</hi> 9.10.) might be, and was ſound in the faith, (<hi>Titus</hi> 1.13. <hi>Apoc.</hi> 2, 25.) might continue in the faith, groun<g ref="char:EOLhyphen"/>ded, and ſetled, and not moved away from the hope of the Goſpel, which they had heard, (<hi>Col.</hi> 1.23.) knew how they ought to walke and pleaſe God, (1 <hi>Theſ.</hi> 4.1, 2.) and conſequently knew that one only faith, (<hi>Heb.</hi> 11.6. <hi>Epheſ.</hi> 4.5.) &amp;c. ſince, I ſay, the people of that age were en<g ref="char:EOLhyphen"/>dued with the aforeſaid faculties, they could ea<g ref="char:EOLhyphen"/>ſily obſerve what particular Miniſters did depart from the purity of that Word; and therefore though the Miniſters of particular Churches, by the neglect of their gifts, or otherwiſe, might depart from the truth, yet were not the people, uſing their gifts to the end aforeſaid, endangered thereby, ſince they could eaſily detect it. <hi rend="sup">a</hi> 1 <hi>John</hi> 2 20, 21, 24, 26, 27, 28. and 2 <hi>Ioh. v.</hi> 9, 10.</p>
+            </div>
+            <div type="notes">
+               <div n="a" type="note">
+                  <p>
+                     <hi>1 Joh. 2. v. 20.</hi> But ye have an unction from the holy One, and ye know all things.</p>
+                  <p>
+                     <hi>v. 21.</hi> I have not written unto you, becauſe yee know not the truth: but becauſe ye know it, and that no lie is of the truth.</p>
+                  <p>
+                     <hi>v. 24</hi> Let that therefore abide in you, which ye have heard from the beginning: if that which ye have heard from the beginning, ſhall remain in you, ye alſo ſhall continue in the Son, and in the Father.</p>
+                  <p>
+                     <hi>v. 26.</hi> Theſe things have I written unto you,
+<pb n="26" facs="tcp:170652:21"/>concerning them that ſeduce you.</p>
+                  <p>
+                     <hi>v. 27.</hi> But the anointing which ye have recei<g ref="char:EOLhyphen"/>ved of him, abideth in you: and ye need not that any man teach you: But as the ſame anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye ſhall a<g ref="char:EOLhyphen"/>bide in him.</p>
+                  <p>
+                     <hi>v. 28.</hi> And now, little children, abide in him, that when he ſhall appear, we may have confi<g ref="char:EOLhyphen"/>dence, and not be aſhamed before him at his com<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>
+                     <hi>2 Iohn v. 9.</hi> Whoſoever tranſgreſſeth, and abi<g ref="char:EOLhyphen"/>deth not in the doctrine of Chriſt, hath not God: he that abideth in the doctrine of Chriſt, he hath both the Father and the Son.</p>
+                  <p>
+                     <hi>v. 10.</hi> If there come any unto you, and bring not this doctrine, receive him not into your houſe, neither bid him God ſpeed.</p>
+               </div>
+            </div>
+            <div type="article">
+               <head>14.</head>
+               <p>Nevertheleſſe, though ſome Miniſters did re<g ref="char:EOLhyphen"/>volt, yet the integrity of the gift it ſelfe where<g ref="char:EOLhyphen"/>with they were inſtituted and endued, remained ſafe and ſound with all other particular Miniſters, who kept the myſterie of the faith in a good con<g ref="char:EOLhyphen"/>ſcience, inaſmuch as they both might and did duely performe that Embaſſage to which they were called and furniſhed by Chriſt: for though the particular Miniſters of that age might revolt, and there were ſome amongſt the<g ref="char:cmbAbbrStroke">̄</g> that did indeed
+<pb n="27" facs="tcp:170652:21"/>revolt, yet that doth no more derogate from the integrity of their inſtitution, which was with the word of the Goſpell wholly, intriſincally, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, then the fall of our firſt parents derogateth from the truth of their originall integrity, wherein they were created by God; for as their fall hindreth not but that they were created in a ſpotleſſe condition, and were able to have perſiſted in it: ſo likewiſe though thoſe particular Miniſters might revolt, and did revolt, yet it cannot be denied that they were inſtituted with the word of the Goſpell, wholly, intrinſically, undoubtedly, and meerly true, and might accordingly have perſiſted in it.</p>
+            </div>
+            <div type="article">
+               <head>15.</head>
+               <p>Beſides, as there were ſome amongſt thoſe particular Miniſters that did indeed revolt, ſo alſo were there others that did not revolt; to wit, thoſe who by patient continuance in well doing proved themſelves, to be good trees by their good fruits, ſuch as many then were, and in the firſt beginning of the Goſpell all, (though af<g ref="char:EOLhyphen"/>terwards ſome by degrees revolted.) ſo as the faithfull of that age were not wont to try the ſpirits of thoſe Miniſters of the Goſpell, whom they had found by experience to be true and faithfull ſervants of God, as it is evident from 1 <hi>John</hi> 4. 1. for it is not ſaid there, that they ſhould not beleeve any, but not every ſpirit, and
+<pb n="28" facs="tcp:170652:22"/>that not becauſe of the true and faithfull Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell, who were already known and received, but by reaſon of falſe Miniſters and Prophets, who had either revolted, or intruded themſelves into the Church: for it was a diffe<g ref="char:EOLhyphen"/>rent caſe, when thoſe lawfull Miniſters were not as yet received for ſuch by the people, and known by experience, as it is manifeſt both by our Sa<g ref="char:EOLhyphen"/>viours ſpeech to the <hi>Jews,</hi> (<hi>John</hi> 7.14, 15, 16, 17, 18.) and the example of the <hi>Beroeans,</hi> (<hi>Acts</hi> 17.10, 11, 12.) for in that caſe the word of the law<g ref="char:EOLhyphen"/>full Miniſters of the Goſpell was left to be exa<g ref="char:EOLhyphen"/>mined by the people that doubted of it, not as if any errour either were, or were to be found by the people therein; but that the doubting examiner after a due ſearch might be infallibly aſſured that no errour either was, or was to be found there; which is ſo true, that whether the examiner of that word ſaid or beleeved that he had found an errour therein, or affirmed that he had found no errour therein, yet their word re<g ref="char:EOLhyphen"/>maineth, as before, wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true: (1 <hi>Cor.</hi> 14.37, 38.) but after they had found thoſe Miniſters to be true and lawfull, that of the Apoſtle taketh place, [1 <hi>Theſ.</hi> 2.13. <hi>For this cauſe alſo we</hi> (<hi>Paul, Syl<g ref="char:EOLhyphen"/>vanus</hi> and <hi>Timotheus</hi>) <hi>give thanks to God inceſ<g ref="char:EOLhyphen"/>ſantly, in that when ye received the word of God, preached by us, ye received it not as the word of
+<pb n="29" facs="tcp:170652:22"/>men, but, as it is indeed, the word of God, which alſo effectually worketh in you that beleeve.</hi>] Where<g ref="char:EOLhyphen"/>fore as at this day none ſuſpecteth godly. Mini<g ref="char:EOLhyphen"/>ſters, who are known and received for ſuch, that they in their preaching wilfully depart from the known truth, but is rather perſwaded that their whole endeavour is to keepe cloſe to it: ſo likewiſe it is to be granted, that the people of that age were fully perſwaded of their Miniſters, who were known to be godly, that they rightly imployed their gifts: which Miniſters, ſince they might continue in the meer purity of that word, and not depart from it, muſt needs performe that which they deſired, and were able to do, and conſequently there was no reaſon that the faithfull of that age ſhould have any ſiniſter ſuſ<g ref="char:EOLhyphen"/>pition of ſuch Miniſters, untill by contrary proofs of evil life and doctrine they had rendred themſelves unworthy to be accounted lawfull Miniſters of God: which if they did, it could eaſily be diſcovered by the faithfull of that age, as we have already ſhewn in the thirteenth Ar<g ref="char:EOLhyphen"/>ticle.</p>
+            </div>
+            <div type="article">
+               <head>16.</head>
+               <p>But though ſome particular Miniſters in the time of the Apoſtles did indeed revolt from the word of the Goſpell, yet did they not preſently forfeit their Miniſtery, becauſe as they might re<g ref="char:EOLhyphen"/>volt, ſo they might repent, and returne againe
+<pb n="30" facs="tcp:170652:23"/>into the right way; [<hi rend="sup">a</hi> 
+                  <hi>Apoc.</hi> 3.1, 2, 3, 14, 15, 16, 17, 18, 19, <hi>Col.</hi> 4.17. 1 <hi>Tim.</hi> 1.3, 4.] and there<g ref="char:EOLhyphen"/>fore there was hope that they would revert to the integrity of their firſt inſtitution, wherein Chriſt had given them a faculty to preach the Goſpell by way of embaſſage for God; which faculty they had both reduced into act in the be<g ref="char:EOLhyphen"/>ginning of their preaching, and though they had afterwards revolted, yet, if they were not wanting to themſelves, might again renew it: and therefore, becauſe according to the inſtitu<g ref="char:EOLhyphen"/>tion, and will of Chriſt they had been furniſhed with a word that was wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, and had been ſpe<g ref="char:EOLhyphen"/>cially, and duly called by Apoſtles, or Apoſtolick men to officiate for God; likewiſe, becauſe they might perſiſt in the originall truth of their inſti<g ref="char:EOLhyphen"/>tution, or if they revolted, return unto it again; for this reaſon, I ſay, they did not preſently for<g ref="char:EOLhyphen"/>feit the title and function of Miniſters of the Goſpel, becauſe there was hope that they would again return to thoſe divine beginnings: which would have had no place, if either their doctrine had not at firſt been inſtituted by Chriſt, that they by it might officiate for God; or they had not gotten a faculty to preach a word wholly, intrinſically, undoubtedly, and meerly true; or they could not have perſiſted in that truth, though they endeavoured it never ſo much; or there
+<pb n="31" facs="tcp:170652:23"/>had been no hope that they could attain to the truth of the firſt inſtitution of the Miniſters of Chriſt; or in a word, if they had never before really performed, or were not as yet able to per<g ref="char:EOLhyphen"/>form the things that were requiſit to the firſt in<g ref="char:EOLhyphen"/>ſtitution of Chriſt; [<hi>Epheſ.</hi> 4.11. <hi>&amp;c.</hi>] for in theſe caſes it neceſſarily followeth, that they who had never ſtood in ſuch or ſuch a condition, cannot be ſaid to fall from it, much leſſe that they are able ſtill to perſiſt in it.</p>
+            </div>
+            <div type="notes">
+               <div n="a" type="note">
+                  <p>
+                     <hi>Apoc. 3. v. 1.</hi> And unto the Angel of the Church in Sardis, Write, Theſe things ſaith he that hath the ſeven ſpirits of God, and the ſeven ſtars, I know thy works, that thou haſt a name that thou liveſt, and art dead.</p>
+                  <p>
+                     <hi>v. 2.</hi> Be watchful, and ſtrengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.</p>
+                  <p>
+                     <hi>v. 3.</hi> Remember therefore how thou haſt received and heard, and hold faſt, and repent. If therefore thou ſhalt not watch, I will come on thee as a thief, and thou ſhalt no know what hour I will come upon thee.</p>
+                  <p>
+                     <hi>v. 14.</hi> And unto the angel of the church of the Laodiceans, write, Theſe things ſaith the Amen, the faithfull and true witneſs, the beginning of the creation of God,</p>
+                  <p>
+                     <hi>v. 15.</hi> I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.</p>
+                  <pb n="32" facs="tcp:170652:24"/>
+                  <p>
+                     <hi>v. 16.</hi> So then becauſe thou art lukewarm, and neither cold nor hot, I will ſpue thee out of my mouth.</p>
+                  <p>
+                     <hi>v. 17.</hi> Becauſe thou ſayeſt, I am rich, and in<g ref="char:EOLhyphen"/>creaſed with goods, and have need of nothing: and knoweſt not that thou art wretched and mi<g ref="char:EOLhyphen"/>ſerable, and poor, and blind, and naked.</p>
+                  <p>
+                     <hi>v. 18.</hi> I counſell thee to buy of me gold tried in the fire, that thou mayeſt be rich; and white rai<g ref="char:EOLhyphen"/>ment, that thou mayeſt be clothed, and that the ſhame of thy nakedneſs do not ap<g ref="char:EOLhyphen"/>pear, and anoint thine eyes with eye ſalve, that thou mayeſt ſee.</p>
+                  <p>
+                     <hi>v. 19.</hi> As many as I love, I rebuke and chaſten: be zealous therefore and repent.</p>
+                  <p>
+                     <hi>Col. 4. v. 17.</hi> And ſay to Archippus, Take heed to the miniſtery which thou haſt received in the Lord, that thou fulfill it.</p>
+                  <p>
+                     <hi>1 Tim. 1. v. 3.</hi> As I beſought thee to abide ſtill at Epheſus when I went into Macedonia, that thou mighteſt charge ſome that they teach no o<g ref="char:EOLhyphen"/>ther doctrine,</p>
+                  <p>
+                     <hi>v. 4.</hi> Neither give heed to fables, and endleſs ge<g ref="char:EOLhyphen"/>nealogies, which miniſter queſtions, rather then edifying, which is in faith: ſo do.</p>
+               </div>
+            </div>
+            <div type="article">
+               <head>17.</head>
+               <p>Wherefore, ſince in the inſtitution of Chriſt, regard is to be had to the gifts wherewith par<g ref="char:EOLhyphen"/>ticular Miniſters were inſtituted by him, and not
+<pb n="33" facs="tcp:170652:24"/>to the willfull or careleſſe abuſe of thoſe gifts; and ſince it is certain that Chriſt gave to the Mi<g ref="char:EOLhyphen"/>niſters of particular Churches a power to preach ſuch a word as was wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, and that all thoſe who were godly and faithfull amongſt them, ac<g ref="char:EOLhyphen"/>cordingly could and did perform their meſſage; but thoſe who did not cannot be reckoned in the number of faithfull and godly Miniſters of Chriſt: let us omit thoſe who negligently or purpoſely departed from the known truth, and conſequently from the firſt inſtitution and gifts of Chriſt, and conſider them only, who at that time conformed themſelves to their firſt inſtitu<g ref="char:EOLhyphen"/>tion, ſuch as were the Apoſtles, and their like, as alſo the Miniſters of particular Churches, faith<g ref="char:EOLhyphen"/>fully uſing their gifts in officiating for God; both which were inſtituted and gifted by Chriſt, and began and continued their commiſſion with ſuch doctrine as was wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true; and therefore thoſe that heard them might in a maner be ſaid to hear God himſelf ſpeaking by them; inſomuch that their doctrin was wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true, and both the Miniſters themſelves, and thoſe that received them for Miniſters, preaching in the Name of God, might be and wee infallibly aſſured of their doctrine, as of the very Word of God.</p>
+            </div>
+            <div type="article">
+               <pb n="34" facs="tcp:170652:25"/>
+               <head>18.</head>
+               <p>Theſe things being premiſed touching the due and lawfull Word of the Goſpel, and the com<g ref="char:EOLhyphen"/>miſſion of Miniſters ſpeaking in the name of God, and their abilitie to perform the ſame: It ſeemeth neceſſary, in a plain ſtyle to propoſe un<g ref="char:EOLhyphen"/>to you certain queſtions, as moſt grave caſes of conſcience, to be examined ſeriouſly and with<g ref="char:EOLhyphen"/>out prejudice, according to the Scripture, in the fear of God who ſearcheth the hearts and reines; that by the true and clear deciſion of them, the light of the Goſpel may more evidently appear. To this end therefore, it is firſt to be enquired; whether God hath any where in the Scripture commanded, or wellpleaſingly permitted to the Miniſters of his Church, or others, that the due and lawfull preaching of the Goſpel, which was at firſt inſtituted in the name of God with none but the promiſed word of Chriſt, wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true, of which both they that preached, and they that heard it were infallibly aſſured, as of the very Word of God; I ſay, that the due and lawfull preaching of the Goſpel, ſhould afterwards be continued by them in the name of God, with a word which was not wholly, intrinſically, undoubted<g ref="char:EOLhyphen"/>ly, and meerly true, and of which both the con<g ref="char:EOLhyphen"/>tinuers themſelves, and thoſe that received them for continuers in the name of God, cannot be in<g ref="char:EOLhyphen"/>fallibly
+<pb n="35" facs="tcp:170652:25"/>aſſured as of the very word of God? Likewiſe, whether God hath commanded, or welpleaſingly permitted that any preaching of the Goſpel ſhould be begun and continued in his name by Miniſters, ſpecially and duly ſent, given and called thereunto, which ſhould be perfor<g ref="char:EOLhyphen"/>med by them or others, with a word which was not wholly, intrinſically, undoubtedly, and meerly true?</p>
+               <p>Now in a matter of ſo great conſequence, as is the quality and adminiſtration of the Goſpel to be preached in the name of God, it ought not to ſeem ſtrange, when the queſtion is concerning it, that ſome previous inſtitution, or ſome com<g ref="char:EOLhyphen"/>mand, or at leaſt ſome welpleaſing permiſſion of God ſhould be brought from Scripture, ac<g ref="char:EOLhyphen"/>cording to which the Chriſtian Church may be<g ref="char:EOLhyphen"/>have her ſelf: for it cannot be that God hath built this moſt weighty Article of Chriſtianitie, and chief worſhip of the New Teſtament, toge<g ref="char:EOLhyphen"/>ther with the reaſon thereof, upon none of the things aforeſaid.</p>
+            </div>
+            <div type="article">
+               <head>19.</head>
+               <p>If to the aforeſaid queſtion it be anſwered, that God hath ſomewhere in Scripture comman<g ref="char:EOLhyphen"/>ded or welpleaſingly permitted, that it ſhould be begun and continued, let the place or places be produced, and we will throughly examine the matter.</p>
+            </div>
+            <div type="article">
+               <pb n="36" facs="tcp:170652:26"/>
+               <head>20.</head>
+               <p>But if it be anſwered, that God hath no where in Scripture commanded, or welpleaſingly per<g ref="char:EOLhyphen"/>mitted it: Then both the Miniſters and people of your Churches may be asked, whether, ſince there is no command, or welpleaſing permiſſion of God touching this matter extant in Scripture, it be lawfull for any one to continue the genuine preaching of the Goſpel, in the name of God, with a word not wholly, intrinſically, undoubted<g ref="char:EOLhyphen"/>ly, and meerly true, though it were begun and inſtituted with a word wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true? Alſo, whether it be lawfull for any one, to begin, continue, inſtitute, and perform with a word not wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, any preach<g ref="char:EOLhyphen"/>ing of the Goſpel in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>21.</head>
+               <p>If it be ſaid, that it is lawfull for ſome body, let the place or places of the Scripture, together with the reaſons whereby it may be proved, be produced, and then we will accurately conſider of the whole matter.</p>
+            </div>
+            <div type="article">
+               <head>22.</head>
+               <p>But if it be anſwered, that it is not lawfull for any man: Then it is to be enquired, whether they, who without any command, inſtitution, or welpleaſing permiſſion of God in Scripture, continue the genuine preaching of the Goſpel
+<pb n="37" facs="tcp:170652:26"/>in the name of God, with a word not wholly, intrinſically, undoubtedly, and meerly true; though it were begun &amp; inſtituted in the name of God with none but a word that was wholly, in<g ref="char:EOLhyphen"/>trinſically, undoubtedly, &amp; meerly true? Alſo, who firſt begin, continue, inſtitute, and perform any preaching of the Goſpel, in the name of God, with a word not wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true; whether, I ſay, they do thereby adminiſter the worſhip of the preaching of the Goſpel as God would have it adminiſtred in his name, or only as it ſeemeth good to them<g ref="char:EOLhyphen"/>ſelves, and they pleaſe?</p>
+            </div>
+            <div type="article">
+               <head>23.</head>
+               <p>If it be ſaid, that they do therby adminiſter the worſhip of the preaching of the Goſpel as God would have it adminiſtred in his name, let them produce that will of God, and the reaſons there<g ref="char:EOLhyphen"/>of, that we may waigh them.</p>
+            </div>
+            <div type="article">
+               <head>24.</head>
+               <p>But if it be anſwered, that they do thereby adminiſter the worſhip of the preaching of the Goſpel not as God would have it adminiſtred in his name, but only as it ſeemeth good to them<g ref="char:EOLhyphen"/>ſelves: Then it is to be enquired, whether they who adminiſter the chief worſhip of the New Teſtament in the name of God, from the be<g ref="char:EOLhyphen"/>ginning thereof and ſo forwards, not as God would have it adminiſtred in his name, but only
+<pb n="38" facs="tcp:170652:27"/>as it ſeemeth good to themſelves, do not thereby incur the crime of wilworſhip? Eſpecially after they once know, that God would have it otherwiſe done, than they do it; alſo, after they are able to take that worſhip of theirs a<g ref="char:EOLhyphen"/>way.</p>
+            </div>
+            <div type="article">
+               <head>25.</head>
+               <p>If it be ſaid, that ſuch perſons do not incur the crime of wilworſhip, let the reaſons be produ<g ref="char:EOLhyphen"/>ced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>26.</head>
+               <p>But if it be anſwered, that ſuch perſons do by that worſhip of theirs commit the very crime of wilworſhip: Then it is to be enquired, whether God hath any where in Scripture commanded, inſtituted, or welpleaſingly permitted any miſſi<g ref="char:EOLhyphen"/>on or calling to perform worſhip in his name, which from the firſt originall thereof, and ſo forwards, is tainted with the crime of wilwor<g ref="char:EOLhyphen"/>ſhip?</p>
+            </div>
+            <div type="article">
+               <head>27.</head>
+               <p>If it be ſaid, that God hath ſomewhere in Scripture inſtituted, commanded, or welpleaſing<g ref="char:EOLhyphen"/>ly permitted ſuch a miſſion or calling, let the place or places be produced, that we may con<g ref="char:EOLhyphen"/>ſider of them.</p>
+            </div>
+            <div type="article">
+               <head>28.</head>
+               <p>But if it be anſwered, that God hath inſtituted, commanded, or welpleaſingly permitted no ſuch miſſion or calling in the Scripture: Then it is
+<pb n="39" facs="tcp:170652:27"/>to be enquired, whether they who are tainted with the aforeſaid crime of wilworſhip in that ſervice which they perform in the name of God, have any lawfull calling, and ſuch as is welplea<g ref="char:EOLhyphen"/>ſing to God, to perform ſuch a ſervice, by means of ſuch a preaching of the Goſpel, uſed to the people in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>29.</head>
+               <p>If it be ſaid, that ſuch perſons have the afore<g ref="char:EOLhyphen"/>ſaid miſſion or calling, let the reaſons of ſuch an Aſſertion be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>30.</head>
+               <p>But if it be anſwered, that ſuch perſons have no ſuch miſſion or calling: Then it is to be enquired, whether ſuch perſons, uſing ſuch preaching in the name of God, may erect or gather Churches in the name of God, with any command, or well-pleaſing permiſſion of his, by ſuch preaching to which they have no lawfull calling?</p>
+            </div>
+            <div type="article">
+               <head>31.</head>
+               <p>If it be ſaid, that they may nevertheleſſe erect and gather Churches, let that command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſſion of God, together with the reaſons thereof be produced, that we may con<g ref="char:EOLhyphen"/>ſider of them.</p>
+            </div>
+            <div type="article">
+               <head>32.</head>
+               <p>But if it be anſwered, that ſuch perſons by means of ſuch preaching, cannot in the name of
+<pb n="40" facs="tcp:170652:28"/>God erect and gather Churches, with a com<g ref="char:EOLhyphen"/>mand, or welpleaſing permiſſion of God: Then it is to be enquired, whether they, who gather Churches in that manner, be condemned of themſelves therein and ſin againſt their owne conſcience? Namely, after they know, that they in their preaching ground neither upon any command, nor wel pleaſing permiſſion of God; as alſo, after they refuſe to take away that will-worſhip of theirs, when they are able to doe it.</p>
+            </div>
+            <div type="article">
+               <head>33.</head>
+               <p>If it be ſaid, that ſuch perſons are not condem<g ref="char:EOLhyphen"/>ned of themſelves, nor ſin againſt their own con<g ref="char:EOLhyphen"/>ſciences, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>34.</head>
+               <p>But if it be anſwered, that they are therein condemned of themſelves, and ſin againſt their own conſcience: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther the people, after they are aſcertained that the Miniſters of their Churches, are condemned of themſelves, in that they ground on no com<g ref="char:EOLhyphen"/>mand, or wellpleaſing permiſſion of God in their preaching; as alſo, becauſe they refuſe to take way that will-worſhip of theirs, when they are able to doe it; whether I ſay, ſuch a people may then be perſwaded according to the com<g ref="char:EOLhyphen"/>mand, or welpleaſing permiſſion of God, that
+<pb n="41" facs="tcp:170652:28"/>they may be gathered by ſuch Miniſters into a Church in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>35.</head>
+               <p>If it be ſaid, that ſuch a people may be perſwa<g ref="char:EOLhyphen"/>ded thereof, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>36.</head>
+               <p>But if it be anſwered, that ſuch a people can<g ref="char:EOLhyphen"/>not be perſwaded thereof: Then it is to be en<g ref="char:EOLhyphen"/>quired, whether ſuch a people who ſuffer them<g ref="char:EOLhyphen"/>ſelves to be gathered into a Church in the name of God, by ſuch perſons, and by ſuch preaching, do well therein, or not?</p>
+            </div>
+            <div type="article">
+               <head>37.</head>
+               <p>If it be ſaid, that ſuch a people do well there<g ref="char:EOLhyphen"/>in, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>38.</head>
+               <p>But if it be anſwered, that ſuch a people doth not well therein: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther it agree with the command, or wellpleaſing permiſſion of God, that a people ſhould be ga<g ref="char:EOLhyphen"/>thered to God, and in the name of God, by ſuch a word, as is intrinſically, and undoubted<g ref="char:EOLhyphen"/>ly of the ſame truth and nature with that word, by which God began and inſtituted the preach<g ref="char:EOLhyphen"/>ing of the Goſpel in his own name, or by ſuch a word as is not ſo?</p>
+            </div>
+            <div type="article">
+               <pb n="42" facs="tcp:170652:29"/>
+               <head>39.</head>
+               <p>If it be ſaid, that it agreeth with the command, or welpleaſing permiſſion of God, let it be pro<g ref="char:EOLhyphen"/>duced, together with the reaſons thereof, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>40.</head>
+               <p>But if it be anſwered, that it agreeth with the command, or welpleaſing permiſſion of God, that a people ſhould be gathered to God, and in the name of God, by ſuch a word as is intrinſical<g ref="char:EOLhyphen"/>ly, and undoubtedly of the ſame truth and nature with that word by which God began &amp; inſtitu<g ref="char:EOLhyphen"/>ted the preaching of the Goſpel in his own name: Then it is to be enquired, whether the holy Text of the Old and New Teſtament be intrinſically, and undoubtedly of the ſame truth and nature with that word by which God began and inſti<g ref="char:EOLhyphen"/>tuted the preaching of the Goſpel in his own name, or not?</p>
+            </div>
+            <div type="article">
+               <head>41.</head>
+               <p>If it be ſaid that a word not wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true, is intrin<g ref="char:EOLhyphen"/>inſically, and undoubtedly of the ſame truth and nature with that word wherewith God in his own name began and inſtituted the preaching of the Goſpel, let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>42.</head>
+               <p>But if it be anſwered, that the holy Text
+<pb n="43" facs="tcp:170652:29"/>of the Old and New Teſtament is ſo: Then it is to be enquired, whether it agree with the command, or welpleaſing permiſſion of God, that a people ſhould be gathered to God, and in the name of God, by the very Text of the Old and New Teſtament, wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true; or by a word not wholly, intrinſically, undoubtedly, and meerly true?</p>
+            </div>
+            <div type="article">
+               <head>43.</head>
+               <p>If it be ſaid, that it agreeth with the command, or welpleaſing permiſſion of God, that it ſhould be done by a word not wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, let that command, or welpleaſing permiſſion, together with the reaſons thereof be produced, that we may con<g ref="char:EOLhyphen"/>ſider of them.</p>
+            </div>
+            <div type="article">
+               <head>44.</head>
+               <p>But if it be anſwered, that it agreeth with the command, or welpleaſing permiſſion of God, that a people ſhould be gathered to God, and in the name of God, by the meer Text of the Old and New Teſtament: Then it is to be en<g ref="char:EOLhyphen"/>quired, whether there be any word as yet a<g ref="char:EOLhyphen"/>mongſt men, beſides the written word of the Old and New Teſtament, which is intrinſically, and undoubtedly of the ſame truth and nature with that word wherewith God began and in<g ref="char:EOLhyphen"/>ſtituted the preaching of the Goſpel in his own name?</p>
+            </div>
+            <div type="article">
+               <pb n="44" facs="tcp:170652:30"/>
+               <head>45.</head>
+               <p>If it be ſaid, that there is ſuch a word as yet a<g ref="char:EOLhyphen"/>mongſt men, let it be declared and produced, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>46.</head>
+               <p>But if it be anſwered, that there is no ſuch word as yet amongſt men, (beſides the written word of the Old and New Teſtament) which is intrinſically, and undoubtedly of the ſame truth and nature with that word, wherewith God be<g ref="char:EOLhyphen"/>gan and inſtituted the preaching of the Goſpel in his own name: Then it is to be enquired, whether that written word of God, as it is, and lyes, without any explications thereof, be a means to beget faith in the name of God, or by way of embaſſage for God, as that word was, wherewith God began and inſtituted the prea<g ref="char:EOLhyphen"/>ching of the Goſpel in his own name?</p>
+            </div>
+            <div type="article">
+               <head>47.</head>
+               <p>If it be ſaid, that that written word of God, as it is, and lyes, &amp;c. is not ſuch a means, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>48.</head>
+               <p>But if it be anſwered, that that written word, as it is, and lyes, is ſuch a means, in that it is in<g ref="char:EOLhyphen"/>trinſically, and undoubtedly of the ſame truth and nature with that word of mouth, wholly, intrinſically, undoubtedly, and meerly true:
+<pb n="45" facs="tcp:170652:30"/>Then it is to be enquired, whether the hearing of that written word, as it is, and lyes, be the hea<g ref="char:EOLhyphen"/>ring of the word of God, by which hearing in the name of God, ſaving faith is procured to a man; as the hearing of that word was, where<g ref="char:EOLhyphen"/>with God began and inſtituted the preaching of the Goſpel in his own name?</p>
+            </div>
+            <div type="article">
+               <head>49.</head>
+               <p>If it be ſaid, that the hearing of the written word is not ſuch a hearing, let the reaſons there<g ref="char:EOLhyphen"/>of be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>50.</head>
+               <p>But if it be anſwered, that the hearing of the written word is ſuch a hearing: Then it is to be enquired, whether the bare hearing of that written word be ſufficient to procure that faith to a man in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>51.</head>
+               <p>If it be ſaid, that the bare hearing of the written word be not ſufficient thereunto: Then it is to be enquired, whether thoſe things which ought to ſupply the bare hearing of the written word, uſed in the name of God to the aforeſaid end, be better, equall, or leſſe than the aforeſaid hear<g ref="char:EOLhyphen"/>ing?</p>
+            </div>
+            <div type="article">
+               <head>52.</head>
+               <p>If it be ſaid, that they are better, let them ſhew where they be, and produce them, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <pb n="46" facs="tcp:170652:31"/>
+               <head>53.</head>
+               <p>If it be ſaid that they are equall, let them like<g ref="char:EOLhyphen"/>wiſe ſhew where they be, and produce them, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>54.</head>
+               <p>But if it be ſaid, that they are leſſe then the a<g ref="char:EOLhyphen"/>foreſaid hearing: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther thoſe leſſe things be intrinſically, and un<g ref="char:EOLhyphen"/>doubtedly of the ſame truth and nature with the word of that hearing, that is, wholly, intrinſi al<g ref="char:EOLhyphen"/>ly, undoubtedly, and meerly true; or elſe not wholly, intrinſically, undoubtedly, and meerly true?</p>
+            </div>
+            <div type="article">
+               <head>55.</head>
+               <p>If it be ſaid, that thoſe leſſe things be intrin<g ref="char:EOLhyphen"/>ſically, and undoubtedly of the ſame truth and nature with the word of that hearing, let them be produced, that we may enquire whether they, if they be ſuch, may by right be termed leſſe? And when that is diſpatched, we will then conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>56.</head>
+               <p>But if it be ſaid, that thoſe leſſe things are not intrinſically, and undoubtedly of the ſame truth and nature with the word of that hearing: Then it is to be enquired, whether God in his writ<g ref="char:EOLhyphen"/>ten word hath any where commanded, or well-pleaſingly permitted, that to his written word, wholly, intrinſically, undoubtedly, and meerly
+<pb n="47" facs="tcp:170652:31"/>true, ſhould be added the ſupplement of a word not wholly, intrinſically, undoubtedly, and meerly true, whereby that which is wanting to the written word of God, to procure ſaving faith, by the bare hearing thereof, might be ſup<g ref="char:EOLhyphen"/>plyed?</p>
+            </div>
+            <div type="article">
+               <head>57.</head>
+               <p>If it be ſaid, that God hath ſomewhere in his written word commanded, or welpleaſingly permitted it, let the place or places be produ<g ref="char:EOLhyphen"/>ced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>58.</head>
+               <p>But if it be anſwered, that God hath no where in his written word commanded, or welpleaſing<g ref="char:EOLhyphen"/>ly permitted it: Then it is certain, that ſuch a word is not by way of ſupplement to be added to the written word, by meanes whereof the hearing of faith cometh in the name of God; and conſequently, the affirmative of the queſti<g ref="char:EOLhyphen"/>on, ſet down in the 49<hi rend="sup">th</hi>. <hi>Article,</hi> is to be held, namely, that the bare hearing of the written word of God is ſufficient to procure ſaving faith to a man, in the name of God, without any o<g ref="char:EOLhyphen"/>ther additions whatſoever.</p>
+            </div>
+            <div type="article">
+               <head>59.</head>
+               <p>But if to the queſtion of the 49<hi rend="sup">th</hi>. <hi>Article</hi> it be anſwered, that the bare hearing of the written word of God, as it is, and lyes, without any Comments, Expoſitions, or Gloſſes, is ſufficient
+<pb n="48" facs="tcp:170652:32"/>to procure ſaving faith to a man in the name of God: Then it is to be enquired, whether the hearing of the written word of God be publike<g ref="char:EOLhyphen"/>ly to be uſed as the true and genuine publike meanes of ſaving faith, in the publike worſhip performed by that hearing in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>60.</head>
+               <p>If it be ſaid, that that hearing ought not to be publikely uſed to that end, let the reaſons there<g ref="char:EOLhyphen"/>of be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>61.</head>
+               <p>But if it be anſwered, that that hearing ought to be publikely uſed to the end aforeſaid: Then it is to be enquired, whether another publike hearing beſides that, may according to the inſti<g ref="char:EOLhyphen"/>tution, command, or wellpleaſing permiſſion of God, be uſed as a true and genuine publike meanes to procure ſaving faith to a man in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>62.</head>
+               <p>If it be ſaid, that another publike hearing be<g ref="char:EOLhyphen"/>ſides that may be uſed, let the place or places of the Scripture, together with that hearing, be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>63.</head>
+               <p>But if it be anſwered, that another publike hear<g ref="char:EOLhyphen"/>ing beſides that, cannot, according to the inſti<g ref="char:EOLhyphen"/>tution, command, or well pleaſing permiſſion of God in the Scripture, be uſed in the name of
+<pb n="49" facs="tcp:170652:32"/>God: Then it is to be enquired, whether hereto<g ref="char:EOLhyphen"/>fore, &amp; at this day, it come to paſſe, according to the inſtitution, co<g ref="char:cmbAbbrStroke">̄</g>mand, or welpleaſing permiſſi<g ref="char:EOLhyphen"/>on of God in the ſcripture, that the concionatory hearing of Miniſters is publickly uſed; as the true and genuine publike means to procure ſaving faith to men in the name of God, and is varni<g ref="char:EOLhyphen"/>ſhed with the title of the true word of God preached, and preferred before the publick hea<g ref="char:EOLhyphen"/>ring of the written word of God? ſince it is ap<g ref="char:EOLhyphen"/>parent that that hearing, which is by meanes of ſuch Sermons, is not the hearing which may and ought to be uſed in the name of God, ſince ſuch a hearing ought to be of a word wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true, ſuch as was that word of mouth, whereby the true and genuine preaching of the Goſpel was at firſt be<g ref="char:EOLhyphen"/>gun and inſtituted in the name of God, and con<g ref="char:EOLhyphen"/>tinued in the time of the Apoſtles; as alſo the written word of the Old and New Teſtament: and not the hearing of a word not wholly, in<g ref="char:EOLhyphen"/>trinſically, undoubtedly, and meerly true, ſuch as your Miniſters themſelves confeſſe their con<g ref="char:EOLhyphen"/>cionatory word to be.</p>
+            </div>
+            <div type="article">
+               <head>64.</head>
+               <p>If it be ſaid, that this notwithſtanding commeth to paſſe according to the inſtitution, command, or welpleaſing permiſſion of God in the Scripture, you muſt produce the places of the
+<pb n="50" facs="tcp:170652:33"/>Scripture, together with the reaſons thereof, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>65.</head>
+               <p>But if it be anſwered, that this commeth not to paſſe according to the inſtitution, command, or welpleaſing permiſſion of God in the Scripture, and therefore neither can nor ought to be uſed to the true and genuine adminiſtration of the Church, which ought to be performed in the name of God: Then it is to be enquired, by what means that concionatory word, which is uſed in the name of God, as a true and genuine publick meanes to procure faith to men, may fitly (as the ſtate of things now is) be taken a<g ref="char:EOLhyphen"/>way, that it may not hence forward be obtruded in the name of God, as the genuine word of God, and chief worſhip of the New Teſta<g ref="char:EOLhyphen"/>ment?</p>
+            </div>
+            <div type="article">
+               <head>66.</head>
+               <p>If there be any means, I would have them pro<g ref="char:EOLhyphen"/>duced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>67.</head>
+               <p>But if nothing be produced concerning that matter: Then it is to be enquired, whether the written word of God, as it is, and lyes, be a ſuf<g ref="char:EOLhyphen"/>ficient outward means to make children, yong<g ref="char:EOLhyphen"/>men, and fathers in Chriſt, each whereof may obtain ſalvation thereby as a means uſed in the name of God to procure it?</p>
+            </div>
+            <div type="article">
+               <pb n="51" facs="tcp:170652:33"/>
+               <head>68.</head>
+               <p>If it be ſaid, that the word is not ſufficient thereunto, let the reaſons be produced, and then we will conſider, whether the ſame argu<g ref="char:EOLhyphen"/>ments will not refute whatſoever hath been pro<g ref="char:EOLhyphen"/>duced for the ſufficiencie of the Scripture from the 49<hi rend="sup">th</hi>. <hi>Article</hi> to the 57<hi rend="sup">th</hi>.</p>
+            </div>
+            <div type="article">
+               <head>69.</head>
+               <p>But if it be anſwered, that the written word of God is ſufficient for the things aforeſaid: Then it is to be enquired, whether in the written word of God, as it is, and lyes, there be milk for chil<g ref="char:EOLhyphen"/>dren, bread for yong men, and wine for fathers in Chriſt?</p>
+            </div>
+            <div type="article">
+               <head>70.</head>
+               <p>If it be anſwered, that the things aforeſaid are to be found therein: Then it is to be enquired, whether children in Chriſt, by the bare hearing of the Scripture in publick or private, uſed in the name of God, may obtain their milk, and young men their bread, and fathers their wine, without any other outward means, uſed in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>71.</head>
+               <p>If it be ſaid, that they cannot obtain thence the things aforeſaid: Then it is to be enquired, whether that happen, either through the inſuffi<g ref="char:EOLhyphen"/>ciencie of the Scripture, or through the obſcuri<g ref="char:EOLhyphen"/>tie thereof, as to children, young men, and fa<g ref="char:EOLhyphen"/>thers
+<pb n="52" facs="tcp:170652:34"/>in Chriſt, or through the diffuſed latitude and bigneſſe of the Scripture, or for ſome divine prohibition ſerved on the perſons aforeſaid, to the intent that (as the caſe of Chriſtiany now ſtandeth) they might not fetch milk, bread, and wine, from the meer reading of the Scripture?</p>
+            </div>
+            <div type="article">
+               <head>72.</head>
+               <p>If it be ſaid, that it hapneth through the inſuf<g ref="char:EOLhyphen"/>ficiencie of the Scripture: Then it is to be enqui<g ref="char:EOLhyphen"/>red, wherein that inſufficiencie lyeth? ſince it hath alreadie been confeſſed, that milk, bread, and wine for thoſe three ſtates of Chriſtianitie, are to be found in the Scripture. Next, who can, and ought to ſupply, in the name of God, that inſufficiencie of the Scripture, and with what word?</p>
+            </div>
+            <div type="article">
+               <head>73.</head>
+               <p>If it be ſaid, that it may and ought to be ſup<g ref="char:EOLhyphen"/>plied with a word wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true: Then it is to be enqui<g ref="char:EOLhyphen"/>red, whether there be any ſuch word extant, be<g ref="char:EOLhyphen"/>ſides the Scripture? And if ſo, let it be produced, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>74.</head>
+               <p>But if be ſaid, that that inſufficiencie of the Scripture may and ought to be ſupplied with a word not wholly, intrinſically, undoubtedly,
+<pb n="53" facs="tcp:170652:34"/>and meerly true: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther the written word, being wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, can, accor<g ref="char:EOLhyphen"/>ding to any command, or welpleaſing permiſſion of God, be ſupplied with ſuch a word in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>75.</head>
+               <p>If it be ſaid, that it may be done in that man<g ref="char:EOLhyphen"/>ner: Then certainly this aſſertion is coincident with that which was before alledged for the in<g ref="char:EOLhyphen"/>ſufficiencie of the Scripture; for there we ſaw that the Scripture neither can nor ought to be ſupplied, in the name of God, with a word not wholly, intrinſically, undoubtedly, and meerly true; I likewiſe crave that a divine command or welpleaſing permiſſion touching that matter be produced out of the Scripture, and then we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <head>76.</head>
+               <p>But if it be anſwered, that the Scripture cannot in the name of God be ſupplied with a word not wholly, intrinſically, undoubtedly, &amp; meerly true; then it is certain, that the Scripture is not inſufficient for the procuring of milk, bread, and wine, to all thoſe ſtates, by the bare hearing thereof.</p>
+            </div>
+            <div type="article">
+               <head>77.</head>
+               <p>But if it be ſaid to the queſtion of the 70<hi rend="sup">th</hi>. <hi>Article,</hi> that children, young men, and fathers
+<pb n="54" facs="tcp:170652:35"/>in Chriſt, cannot from the bare hearing of the Scripture, uſed either publikely or privately in the name of God, get milk, bread, and wine, by reaſon of the obſcuritie of the Scripture in re<g ref="char:EOLhyphen"/>lation to thoſe ſtates: Then it is to be enquired, wherein that obſcuritie lyeth, and why the Lord left it in the Scripture to that end? Next, by what meanes, and in what manner that obſcuri<g ref="char:EOLhyphen"/>tie may, and ought moſt certainly to be taken away? And finally, whether there be any per<g ref="char:EOLhyphen"/>ſons, given, called, and ordained by Chriſt, to take away that obſcurity, in the name of God, and who they be?</p>
+            </div>
+            <div type="article">
+               <head>78.</head>
+               <p>If it be ſaid, that the concionatory word at this day uſed, is that means, whereby that obſcu<g ref="char:EOLhyphen"/>ritie may and ought to be taken away, in the name of God: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther the Miniſters of that word were given, cal<g ref="char:EOLhyphen"/>led and ordained by Chriſt, to take away, in the name of God, all obſcuritie of the Scripture whatſoever, or only to take away ſome part thereof?</p>
+            </div>
+            <div type="article">
+               <head>79.</head>
+               <p>If it be ſaid, that the Miniſters of that concio<g ref="char:EOLhyphen"/>natory word are given, called and ordained by Chriſt, to take away, in the name of God, all obſcurity of the Scripture whatſoever: Then it is to be enquired, whether all in groſſe, or at
+<pb n="55" facs="tcp:170652:35"/>leaſt ſome of them, are able duly to perform that thing? If it be ſaid, that they can; you muſt ſhew and produce thoſe Miniſters that we may conſider of their lawfull calling, ordination, commiſſion, and abilitie thereunto.</p>
+            </div>
+            <div type="article">
+               <head>80.</head>
+               <p>But if it be ſaid, that thoſe Miniſters are given, called, and ordained by Chriſt, to take away, in the name of God, ſome part only of the obſcu<g ref="char:EOLhyphen"/>rity of the Scripture: Then it is to be enquired, whether any Miniſters of that concionatory word preciſely know what is that part of the ob<g ref="char:EOLhyphen"/>ſcuritie of the Scripture, to take away which, in the name of God, they ſay they are given, called, and ordained by Chriſt?</p>
+            </div>
+            <div type="article">
+               <head>81.</head>
+               <p>If it be ſaid that they preciſely know that part: Then it is to be enquired, whether thoſe Miniſters are given, called, and ordained by Chriſt, to take away, in the name of God, none but the obſcuritie of things preciſely neceſſary to ſalvation; or of them alſo which are not pre<g ref="char:EOLhyphen"/>ciſely neceſſary to ſalvation?</p>
+            </div>
+            <div type="article">
+               <head>82.</head>
+               <p>If it be ſaid, that they are given, called, and or<g ref="char:EOLhyphen"/>dained by Chriſt, to take away, in the name of God, none but the obſcurity of things preciſely neceſſary to ſalvation. Then it is to be enquired, whether they are there clearly enough pro<g ref="char:EOLhyphen"/>poſed
+<pb n="56" facs="tcp:170652:36"/>by God himſelf, according to the capaci<g ref="char:EOLhyphen"/>citie of every Chriſtian of the three foreſaid ſtates, hearing or reading the Scripture in the fear of God?</p>
+            </div>
+            <div type="article">
+               <head>83.</head>
+               <p>If it be ſaid, that they are not there cleerly enough propoſed by God for them: certainly, then you recede from the publike confeſſions of your Churches, and go over into the tents of the Papiſts, whom your Churches blame upon that very ground. But if notwithſtanding you per<g ref="char:EOLhyphen"/>ſevere in that opinion, Then it is to be enquired with what word they will do that; with one wholly, intrinſically, undoubtedly, and meerly true, or with one that is not ſo? Again, whether they exactly know what things are preciſely ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation? for inſtance, whether the ſame things are neceſſary for every man, or di<g ref="char:EOLhyphen"/>vers, whether more, or leſſe, or which, how ma<g ref="char:EOLhyphen"/>ny, and of what kinde? As alſo, which, how many, and of what kind thoſe things are, which are preciſely neceſſary to ſalvation?</p>
+            </div>
+            <div type="article">
+               <head>84.</head>
+               <p>If it be ſaid, that thoſe Miniſters preciſely know, which, how many, and of what kind thoſe things are, which are preciſely neceſſary to the ſalvation of all and every man: Then it is to be demanded of them, that they would ſet down thoſe Heads and Articles in writing, and plainly ſhew that none but thoſe things preciſely, nei<g ref="char:EOLhyphen"/>ther
+<pb n="57" facs="tcp:170652:36"/>more or leſſe, are preciſely neceſſary to the ſalvation of all and every man.</p>
+            </div>
+            <div type="article">
+               <head>85.</head>
+               <p>But if it be anſwered, that thoſe Miniſters do not know what thoſe things preciſely are, which are preciſely neceſſary to the ſalvation of all and every man: Then it is to be enquired, how they can here preciſely know, what they are given, called, and ordained to explain in the name of God? ſince they cannot tell the bounds of that their calling and ordination, and conſequently they may perhaps be called to more or leſſe than they think: in which doubtfull caſe nothing can or ought to be performed in the name of God.</p>
+            </div>
+            <div type="article">
+               <head>86.</head>
+               <p>But if it be ſaid to the 80<hi rend="sup">th</hi>. <hi>Article,</hi> that thoſe Miniſters are given, called, and ordained by Chriſt, to take away, in the name of God, the ob<g ref="char:EOLhyphen"/>ſcuritie of thoſe things which are not preciſely neceſſary to ſalvation: Then it is to be enquired, how they can preciſely know thoſe things, ſince they know not the things that are preciſely ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation? Again, whether they were ordained by Chriſt to explain all thoſe things, in the name of God, or only ſome part of them?</p>
+            </div>
+            <div type="article">
+               <head>87.</head>
+               <p>If if be ſaid that they are ordained by Chriſt to explain all: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther thoſe Miniſters can duly explain, in the name
+<pb n="58" facs="tcp:170652:37"/>of God, the whole Scripture, as to all thoſe things not preciſely neceſſary to ſalvation and if it be ſaid, that they can; then thoſe Miniſters are to be deſired, that they would in that manner explain the whole Scripture in all thoſe things not preciſely neceſſary to ſalvation, and when they have done that, when we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <head>88.</head>
+               <p>But if it be ſaid, that they are ordained by Chriſt, to explaine, in the Name of God, none but a part of thoſe things not preciſely neceſſary to ſalvation: Then it is to be enquired, whether they exactly know what that part is?</p>
+            </div>
+            <div type="article">
+               <head>89.</head>
+               <p>If it be ſaid, that they exactly know what that part is: Then thoſe Miniſters are to be deſired, that they would ſet down that part in writing, and make it plaine, that they are ordained by Chriſt, to explaine, in the Name of God, that part alone preciſely, and neither more nor leſſe of that kind; and when they have done that, we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <head>90.</head>
+               <p>But if it be anſwered, that thoſe Miniſters do not know, what part preciſely of the things not preciſely neceſſary to ſalvation they are ordain<g ref="char:EOLhyphen"/>ed by Chriſt to explaine in the Name of God: Then it is to be enquired, by what meanes they
+<pb n="59" facs="tcp:170652:37"/>can rightly know, that they neither ſtraighten nor go beyond the limits of that their Ordinati<g ref="char:EOLhyphen"/>on and calling, in quality whereof they give out that they come by way of embaſſage for God to explaine ſuch things? for this thing ought to be rightly known and performed, when any come by way of embaſſage for God. Such an Interoga<g ref="char:EOLhyphen"/>tory would ſoone puzzle thoſe Miniſters; and therefore ſince they are not ordained by Chriſt to preach in the Name of God ſuch a word as is not wholly, intrinſecally, undoubtedly, &amp; meerly true, nor to explaine the whole ſcripture, or any part thereof in things preciſely neceſſary or not preciſely neceſſary to ſalvation, Certain it is that nothing either ought or can be explained by them in the Name of God, or by way of embaſſage for God, by the mediation of ſuch a concionatory word, not wholly, intrinſecally, undoubtedly, and meerly true, in favour of children, young men, and fathers in Chriſt. Wherefore to that which was demanded in the ſixty ninth <hi>Article,</hi> it is to be anſwered affirmatively, namely, that children, young men, and fathers in Chriſt may draw and fetch, milk, bread, and wine, from the bare publick or private hearing of the ſcripture, performed in the Name of God; ſince it is certaine, that the ſufficiency and clearneſſe of the ſcripture, (as it is and lyes,) as to the ſalvation of thoſe three ſorts of Chriſtians, being aſſerted, no hinderance
+<pb n="60" facs="tcp:170652:38"/>but rather helpe can be alledged from the large<g ref="char:EOLhyphen"/>neſſe of the ſcripture, wherein the ſame things are frequently repeated, and inculcated, and to contract which, in the Name of God, there is at this day no man given: eſpecially conſidering that there is no prohibition extant in the ſcrip<g ref="char:EOLhyphen"/>ture, whereby the aforeſaid perſons are forbid<g ref="char:EOLhyphen"/>den to procure their ſalvation in that manner, as the caſe of Chriſtianity now ſtandeth.</p>
+            </div>
+            <div type="article">
+               <head>91.</head>
+               <p>Wherefore (that we may at length directly anſwer to the queſtion of the 64<hi rend="sup">th</hi>. <hi>Article,</hi> touching the due removall of that concionatory word, hitherto uſed in the name of God,) it is to be enquired, whether in the ſtead of that concio<g ref="char:EOLhyphen"/>natory word, not wholly, intrinſically, undoubt<g ref="char:EOLhyphen"/>edly, and meerly true, which neither ought nor can ſerve thoſe three ſtates of Chriſtians, in the Name of God, it be agreeable to the command, or well pleaſing permiſſion of God, that his written word, wholly, intrinſically, undoubtedly, and meerly true, ſhould be ſubſtituted, ſince it is profitable to all of them: or whether it be agree<g ref="char:EOLhyphen"/>able to the command or welpleaſing, permiſſion of God, that in the publick worſhip, which ought to be performed in the Name of God, in ſtead of the written word of God, wholly, intrinſically, undoubtedly, and meerly true, there ſhould be ſubſtituted that concionatory word, not wholly,
+<pb n="61" facs="tcp:170652:38"/>intrinſecally, undoubtedly, and meerly true?</p>
+            </div>
+            <div type="article">
+               <head>92.</head>
+               <p>If it be ſaid, that either word, according to the command, or welpleaſing permiſsion of God, may and ought in the Name of God to be uſed in the publick worſhip: Then it is to be deman<g ref="char:EOLhyphen"/>ded that ſome command, or welpleaſing, permiſ<g ref="char:EOLhyphen"/>ſion of God, be produced out of the ſcripture touching that matter, and then we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>93.</head>
+               <p>But if it be ſaid, that it is agreeable to the command, or welpleaſing permiſsion of God, that in the publick worſhip, which ought to be performed in the Name of God, that conciona<g ref="char:EOLhyphen"/>tory word ſhould be ſubſtituted in ſtead of the written word of God: Then it is to be enquired of them that ſay ſo, whether they do not as yet obſerve the myſtery of iniquity, to ſtrengthen which there can be nothing found in the written word of God? or if they think there is ſomthing there concerning that matter, I would have it produced, and then we will weigh it.</p>
+            </div>
+            <div type="article">
+               <head>94.</head>
+               <p>But if it be anſwered, that it is agreeable to the command, or welpleaſing permiſsion of God, that in the publick worſhip, which ought to be performed in the Name of God, the writ<g ref="char:EOLhyphen"/>ten word of God ſhould be ſubſtituted, in ſtead of that concionatory word: Then it is to be
+<pb n="62" facs="tcp:170652:39"/>enquired, whether that written word alone (ſince it ſufficiently and clearely affordeth milke for children, bread for young men, and wine for fa<g ref="char:EOLhyphen"/>thers in Chriſt) may and ought to be, in the Name of God, a ſufficient catechiſme, and confeſ<g ref="char:EOLhyphen"/>ſion for all Chriſtians, ſerving them in ſtead of the analogy of faith to limit and direct their pri<g ref="char:EOLhyphen"/>vate and publick worſhip in the Name of God?</p>
+            </div>
+            <div type="article">
+               <head>95.</head>
+               <p>If it be ſaid, that the written word alone by it ſelfe neither can nor ought to be the things a<g ref="char:EOLhyphen"/>foreſaid: Then it is to be enquired, whether there be any other word extant, that may in the Name of God performe and fulfill the aforeſaid office of a catechiſme and confeſsion, either bet<g ref="char:EOLhyphen"/>ter and more coneniently, or a like well and conveniently?</p>
+            </div>
+            <div type="article">
+               <head>96.</head>
+               <p>If it be ſaid, that there is another word extant: Then it is to be demanded, that that word ſhould be produced, to the intent we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>97.</head>
+               <p>But if it be anſwered, that there is no other word extant: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther heretofore and at this day it come to paſſe according to the inſtitution, command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſsion of God, that another word then that of God is uſed in Churches in the name of God, for a ſufficient catechiſme and confeſsion,
+<pb n="63" facs="tcp:170652:39"/>ſerving them inſtead of the analogy of faith to limit and direct their publick and private wor<g ref="char:EOLhyphen"/>ſhip in the Name of God?</p>
+            </div>
+            <div type="article">
+               <head>98.</head>
+               <p>If it be ſaid, that this is done according to the inſtitution, command, or welpleaſing permiſsion of God. Then it is to be demanded, that the reaſons be produced, as alſo, that the inſtitution, command, or welpleaſing permiſsion of God, be alledged out of the Scripture, about making a catechiſme and confeſsion, not wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerely true, to ſerve Chriſtians as the analogy of faith to limit and direct their private and publick worſhip in the Name of God? And when that is done, we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <head>99.</head>
+               <p>But if it be anſwered, that this commeth not to paſſe according to the inſtitution, command, or welpleaſing permiſsion of God; and conſe<g ref="char:EOLhyphen"/>quently neither can nor ought to be made uſe of to the due and genuine adminiſtration of the Church, which ought to be performed in the Name of God: Then it is to be enquired, by what meanes thoſe catechiſmes and confeſsions may now be duely removed from that authentick Station which they have gotten in the Church.</p>
+            </div>
+            <div type="article">
+               <head>100.</head>
+               <p>If there be any meanes, let them be produced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <pb n="64" facs="tcp:170652:40"/>
+               <head>101.</head>
+               <p>But if nothing be produced concerning that matter: Then it is to be enquired, whether, as the caſe of the Church now ſtandeth, the Scrip<g ref="char:EOLhyphen"/>ture it ſelf be ſufficient, as it is, and lyes, to per<g ref="char:EOLhyphen"/>form all worſhip, wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true, in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>102.</head>
+               <p>If it be ſaid, that the Scripture is not ſufficient thereunto, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>103.</head>
+               <p>But if it be anſwered, that the Scripture is ſufficient thereunto: Then it is to be enquired, whether, ſince by means of the Scripture, (as it is, and lyes) there may be had in the name of God ſuch a word preached, as is wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true, wherein milke, bread, and wine, for children, young men, and fathers in Chriſt, are afforded; with ſongs and prayers, wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>ly, and meerly true, and ſuch a means of making vowes, and entering into Covenant with God, as is wholly, intrinſically, undoubtedly, and meerly true: whether, I ſay, by meanes of the Scripture alone (as it is, and lyes there may be had, in this ſtate of the Church, by thoſe points, the entire worſhip of God, wholly, intrinſically, undoubtedly, and meerly true, and conſequent<g ref="char:EOLhyphen"/>ly
+<pb n="65" facs="tcp:170652:40"/>an authentick catechiſme and confeſſion in the name of God, ſerving as the due analogy of faith to limit and direct the private and publick wor<g ref="char:EOLhyphen"/>ſhip of Chriſtians.</p>
+            </div>
+            <div type="article">
+               <head>104.</head>
+               <p>If it be ſaid, that the things aforeſaid, may not then be had, let the reaſons thereof be produ<g ref="char:EOLhyphen"/>ced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>105.</head>
+               <p>But if it be ſaid, that it may be doubted there<g ref="char:EOLhyphen"/>of: Then it is to be enquired, whether it may be doubted, that he, who upon all the promiſes and threats contained in the Scripture, entreth into a covenant with God, to direct his knowledge, faith and manners, according to none but the preſcript of the Scripture, and that, as he heartily deſireth and wiſheth to be made partaker of thoſe promiſes, and to be freed from thoſe threats: whether, I ſay, ſuch a man (ſince there is milk, bread and wine for all ſtates of Chriſti<g ref="char:EOLhyphen"/>ans in the Scripture,) hath then his authentick catechiſme and confeſſion, then which none ei<g ref="char:EOLhyphen"/>ther better or ſo good, to the end aforeſaid, can be given.</p>
+            </div>
+            <div type="article">
+               <head>106.</head>
+               <p>If it be ſaid, that it may notwithſtanding be doubted, whether ſuch a man hath thoſe things, let the reaſons be produced, that we may conſi<g ref="char:EOLhyphen"/>der of them.</p>
+            </div>
+            <div type="article">
+               <pb n="66" facs="tcp:170652:41"/>
+               <head>107</head>
+               <p>But if it be anſwered, that ſuch a man hath the things aforeſaid: Then it is to be enquired, whe<g ref="char:EOLhyphen"/>ther in ſtead of thoſe catechiſmes and confeſſi<g ref="char:EOLhyphen"/>ons, not wholly, intrinſically, undoubtedly, and meerly true, and not authentick, which cannot ſerve as the analogy of faith to regulate the pri<g ref="char:EOLhyphen"/>vate or publicke worſhip of Chriſtians, in the name of God: whether, I ſay, it be agreeable to the inſtitution, command, or welpleaſing per<g ref="char:EOLhyphen"/>miſſion of God, that in ſtead of them there ſhould be ſubſtituted in the Church the very written word of God, wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerely true, as the authentick catechiſme and confeſſion of Chriſtians, to be uſed by them in the name of God as the true and genuine meanes to regulate their private and publick worſhip: or whether it agree with the inſtitution, command, or welpleaſing permiſſion of God, that in ſtead of the very written word of God, as the authentick catechiſme and con<g ref="char:EOLhyphen"/>feſsion of Chriſtians, wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, there ſhould be ſub<g ref="char:EOLhyphen"/>ſtituted in the Church in the name of God thoſe catechiſmes and confeſsions, neither wholly, in<g ref="char:EOLhyphen"/>trinſecally, undoubtedly, and meerely true, nor authentick?</p>
+            </div>
+            <div type="article">
+               <head>108.</head>
+               <p>But if it be ſaid, that catechiſmes and confeſsi<g ref="char:EOLhyphen"/>ons
+<pb n="67" facs="tcp:170652:41"/>of both kindes may and ought, according to the inſtitution, command, or welpleaſing per<g ref="char:EOLhyphen"/>miſsion of God, to be uſed in the Church in the name of God, to the end aforeſaid: Then it is to be enquired, whether any proofe of ſuch an inſtitution, command, or wellpleaſing permiſsion of God can be produced out of the Scripture? and when it is produced, we will conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>109.</head>
+               <p>But if it be ſaid, that it agreeth with the in<g ref="char:EOLhyphen"/>ſtitution, command, or welpleaſing permiſsion of God, that in ſtead of the written word of God, wholly, intrinſically, undoubtedly, and meerly true, as the authentick catechiſme and confeſsion of Chriſtians, there ſhould be ſubſti<g ref="char:EOLhyphen"/>tuted in the Church in the name of God to the end aforeſaid thoſe catechiſmes and confeſſions, not wholly, intrinſically, undoubtedly, &amp; meerly true, and not authentick, let that inſtitution, command, or welpleaſing permiſſion concerning this thing be produced out of the Scripture, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>110</head>
+               <p>But if it be anſwered, that it agreeth with the inſtitution, command, or well pleaſing permiſſion of God, that in ſtead of thoſe catechiſmes and confeſſions, not wholly, intrinſically, undoubted<g ref="char:EOLhyphen"/>ly, and meerly true, &amp; not authentick, there ſhould be ſubſtituted in the Church in the name of God,
+<pb n="68" facs="tcp:170652:42"/>the very written word of God, as the authentick, and wholly, intrinſically, undoubtedly, &amp; meerly true catechiſme and confeſsion of Chriſtians to the end aforeſaid: Then it is to be enquired, whether thoſe formes of catechiſmes and confeſ<g ref="char:EOLhyphen"/>ſions, wherein men heretofore and at this day are bred up and inſtructed in the name of God, and wherewith as well their private as publicke worſhip is regulated in the name of God, ought to be aboliſhed as ſuch, and to be laid aſide out of their hands? ſince the very written word of God, wholly, intrinſecally, undoubtedly, and meerely true, performeth all that to Chriſtians by it ſelfe.</p>
+            </div>
+            <div type="article">
+               <head>111</head>
+               <p>If it be ſaid, that thoſe catechiſmes and con<g ref="char:EOLhyphen"/>feſsions ought not to be aboliſhed, and laid a ſide out of mens hands, let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>112.</head>
+               <p>But if it be anſwered, that thoſe catechiſmes and confeſsions ought to be aboliſhed, and laid a ſide out of mens hands: Then it is to be enqui<g ref="char:EOLhyphen"/>red, whether all and ſingular Miniſters of Chur<g ref="char:EOLhyphen"/>ches heretofore and at this time being, who from the begining of their preaching and ſo forwards, either wittingly or unwittingly, publiſh to the world another word (as the publicke ſervice of the true and genuine preaching of the Goſpell,) then that wherewith God at firſt began and
+<pb n="69" facs="tcp:170652:42"/>inſtituted in his own name the preaching of the Goſpell; againe, who preferre the pub<g ref="char:EOLhyphen"/>licke hearing of their own word, varniſhed with the title of the true word of God preached, before the publicke hearing of the written word of God, wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true; finally, who uſe in the name of God another catechiſme and con<g ref="char:EOLhyphen"/>feſsion then the very written word of God, and yet are not able to produce any lawfull miſsion or calling to performe ſuch things, and preſent them to men in the name of God, by any divine inſtitution, command, or welpleaſing permiſsion of God in the Scripture: whether, I ſay, they be able to produce any warrant from the Scrip<g ref="char:EOLhyphen"/>ture, wherin God and Chriſt inſtitute, command, or welpleaſingly permit, that ſuch men ſhould have right and authority to erect and to gather Churches in the name of God by the meanes aforeſaid, and to governe them according to their liturgies and formes, and conſiſtoriall, claſsicall and ſynodall acts, not wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly and meerly true; and con<g ref="char:EOLhyphen"/>ſequently either by themſelves or others to in<g ref="char:EOLhyphen"/>ſtitute and diſpenſe the calling, ordination, miſ<g ref="char:EOLhyphen"/>ſion, adminiſtration, office and cure of Biſhops, Paſtors, Doctors, Presbyters, Deacons and other Eccleſiaſticall Officers?</p>
+            </div>
+            <div type="article">
+               <pb n="70" facs="tcp:170652:43"/>
+               <head>113.</head>
+               <p>If it be ſaid, that ſuch an inſtitution command or welpleaſing permiſsion can be produced out of the Scripture for their aforeſaid proceedings, let it be produced, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>114.</head>
+               <p>But if it be anſwered, that there is no inſtitu<g ref="char:EOLhyphen"/>tion command, or welpleaſing permiſsion ex<g ref="char:EOLhyphen"/>tant in the Scripture, concerning ſuch kinde of men: Then it is to be enquired, whether the Miniſters of Churches, heretofore and at this time being, proceed according to the inſtitution, command, or welpleaſing permiſsion of God and Chriſt in the Scripture, in aſſuming to them<g ref="char:EOLhyphen"/>ſelves a right and authority, by ſuch meanes, and in ſuch a manner, to erect, gather, and governe Churches in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>115.</head>
+               <p>If it be ſaid, that they do the things aforeſaid, according to the inſtitution, command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſsion of God and Chriſt in the Scripture: let the reaſons and places of the Scripture be produced, that we may conſider both: which we will likewiſe doe, if perhaps they doubt whether they proceed therein accor<g ref="char:EOLhyphen"/>ding to the inſtitution, command, or welpleaſing permiſsion of God, and produce the reaſons of their doubting.</p>
+            </div>
+            <div type="article">
+               <head>116.</head>
+               <p>But if it be anſwered, that thoſe Miniſters do
+<pb n="71" facs="tcp:170652:43"/>not performe the things aforeſaid according to the inſtitution command, or wellpleaſing per<g ref="char:EOLhyphen"/>miſsion of God and Chriſt in the Scripture; and therefore that they neither can nor ought to be made uſe of to the true and genuine adminiſtrati<g ref="char:EOLhyphen"/>on of the Church, which ought to be performed in the name of God: Then it is to be enquired, whether it be not expedient, that the uſurped right and authority of thoſe Miniſters, as alſo the erection and gathering of Churches, together with the government of the ſame, performed by them in the name of God, ſhould be taken away?</p>
+            </div>
+            <div type="article">
+               <head>117.</head>
+               <p>If it be ſaid, that it is not expedient, let the reaſons thereof be produced, that we may conſi<g ref="char:EOLhyphen"/>der of them.</p>
+            </div>
+            <div type="article">
+               <head>118.</head>
+               <p>But if it be anſwered, that it is expedient: Then it is to be enquired, in what manner it may conveniently be done, as the caſe of the Church now ſtandeth?</p>
+            </div>
+            <div type="article">
+               <head>119.</head>
+               <p>If there be any expedients, let them be pro<g ref="char:EOLhyphen"/>duced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>120.</head>
+               <p>But if nothing be produced touching that point: Then it is to be enquired, whether a Church which from the firſt beginning of her preaching and ſo forwards, is deſtitute of that
+<pb n="72" facs="tcp:170652:44"/>word of mouth, wherewith the Goſpell was at firſt begun and inſtituted in the name of God; againe, which ſubſtituteth her own word, varni<g ref="char:EOLhyphen"/>ſhed with the title of the true word of God preached, in ſtead of that word, wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, wherewith the Goſpell was at firſt inſtituted and begun in the name of God; again, which preferreth the publick hearing of her own word, not wholly, intrinſically, undoubtedly, and meerely true, be<g ref="char:EOLhyphen"/>fore the publick hearing of the written word of God, wholly, intrinſically, undoubtedly, and meerly true; againe, which uſeth catechiſmes, confeſſions, liturgies, formes, together with her conſiſtoriall, claſſicall and ſynodall acts, not wholly, intrinſically, undoubtedly, and meerely true, and conſequently, neither can nor ought in the name of God to erect, gather or governe Churches by the meanes aforeſaid in the uſuall manner; whether, I ſay, ſuch a Church, can with any reaſon deny, that ſhe hath departed, and revolted from the firſt inſtitution of Chriſt as touching his promiſed word, and from the ere<g ref="char:EOLhyphen"/>ction, gathering, and government of Churches thereby in the name of God, and is ſo far forth apoſtolicall?</p>
+            </div>
+            <div type="article">
+               <head>121.</head>
+               <p>If it be ſaid, that it may with reaſon be denied, let the reaſons be produced, that we may conſi<g ref="char:EOLhyphen"/>der of them.</p>
+            </div>
+            <div type="article">
+               <pb n="73" facs="tcp:170652:44"/>
+               <head>122.</head>
+               <p>But if it be anſwered, that ſuch a Church can<g ref="char:EOLhyphen"/>not with any reaſon deny that ſhe hath in that manner departed, revolted, and apoſtatized: Then it is to be enquired, whether ſuch a Church can duely take away and amend her revolt and apoſtacy, by reſtoring, amongſt other things, that word of mouth, wholly, intrinſically, undoubted<g ref="char:EOLhyphen"/>ly, and meerely true, wherewith the preaching of the Goſpell was at firſt begun and ſet on foot?</p>
+            </div>
+            <div type="article">
+               <head>120.</head>
+               <p>If it be ſaid, that ſhe can even at this time due<g ref="char:EOLhyphen"/>ly performe that: Then ſuch a Church is to be deſired that ſhe would be pleaſed to performe it in that manner out of hand; and after that, we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <head>124.</head>
+               <p>But if it be anſwered, that ſuch a Church can<g ref="char:EOLhyphen"/>not at this time duely performe it: Then it is to be demanded, whether God hath inſtituted, commanded, or welpleaſingly permitted in the Scripture, that ſuch a revolted Church, ſhould in any wiſe erect, gather and governe Churches in the name of God?</p>
+            </div>
+            <div type="article">
+               <head>125.</head>
+               <p>If it be ſaid, that God hath inſtituted, com<g ref="char:EOLhyphen"/>manded, or welpleaſingly permitted it in the Scripture, let that inſtitution, command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſſion be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <pb n="74" facs="tcp:170652:45"/>
+               <head>126.</head>
+               <p>But if it be anſwered, that God hath neither inſtituted, commanded, or welpleaſingly per<g ref="char:EOLhyphen"/>mitted it in the Scripture: Then it is to be enqui<g ref="char:EOLhyphen"/>red, whether God hath inſtituted, commanded, or welpleaſingly permitted in the Scripture, that that ſuch a revolted Church ſhould gather and govern Churches, not indeed in the name of God, but only by Eccleſiaſtick authority, in the name of the reſpective members of the Church, and by right of common calling?</p>
+            </div>
+            <div type="article">
+               <head>127.</head>
+               <p>If it be ſaid, that God hath inſtituted, com<g ref="char:EOLhyphen"/>manded, or welpleaſingly permitted it in the Scripture, let that inſtitution, command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſſion be produced, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>128.</head>
+               <p>But if it be anſwered, that God hath neither in<g ref="char:EOLhyphen"/>ſtituted, commanded, nor welpleaſingly permit<g ref="char:EOLhyphen"/>ted it in the Scripture: Then it is to be enquired, whether God hath inſtituted, commanded, or welpleaſingly permitted in the Scripture, that ſuch a revolted Church ſhould gather and go<g ref="char:EOLhyphen"/>vern Churches in the tolerance of God, and connivence at the aforeſaid defects of his peo<g ref="char:EOLhyphen"/>ple: not indeed in the name of God, but (as I ſaid) in the previous connivence of God, and as neer as may be in ſuch a manner and by ſuch
+<pb n="75" facs="tcp:170652:45"/>means as are wholly, intrinſically, undoubtedly, and meerly true: yet by meer Eccleſiaſtick au<g ref="char:EOLhyphen"/>thorititie, in the name of the reſpective mem<g ref="char:EOLhyphen"/>bers of ſuch a Church, and by right of the com<g ref="char:EOLhyphen"/>mon calling of ſuch Chriſtians, ſo that error both may and ought to be tolerated in ſuch a Church?</p>
+            </div>
+            <div type="article">
+               <head>129.</head>
+               <p>If it be ſaid, that God hath inſtituted, com<g ref="char:EOLhyphen"/>manded, or welpleaſingly permitted it in the Scripture, let that inſtitution, command, or wel<g ref="char:EOLhyphen"/>pleaſing permiſſion be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>130.</head>
+               <p>But if it be anſwered, that God hath neither inſtituted, commanded, nor welpleaſingly per<g ref="char:EOLhyphen"/>mitted it in the Scripture: Then it is to be en<g ref="char:EOLhyphen"/>quired, whether in this revolted ſtate of the Church, any Churches may be erected gathered, and governed, or not?</p>
+            </div>
+            <div type="article">
+               <head>131.</head>
+               <p>If it be ſaid, that no Churches can then be in<g ref="char:EOLhyphen"/>ſtituted, let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>132.</head>
+               <p>But if it be anſwered, that in this revolted ſtate of the Church, Churches may be gathe<g ref="char:EOLhyphen"/>red and governed: Then it is to be enquired, in what manner that may conveniently be done?</p>
+            </div>
+            <div type="article">
+               <pb n="76" facs="tcp:170652:46"/>
+               <head>133.</head>
+               <p>If there be any wayes, let them produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>134.</head>
+               <p>But if nothing be produced touching this matter: Then it is to be enquired, whether there be any places in the Scripture, (wherein it is not indeed inſtituted, commanded, nor welpleaſing<g ref="char:EOLhyphen"/>ly permitted, but) from whence it may be in ſome meaſure collected, that it is tolerated by God, that in the aforeſaid revolted ſtate of the Church, Churches ſhould be gathered and go<g ref="char:EOLhyphen"/>verned, by ſuch members thereof, with the grea<g ref="char:EOLhyphen"/>teſt ſubmiſſion of mind, in the tolerance of God, and connivence at the aforeſaid defects of his people: not in the name of God, for that ought to be done in ſuch a manner, and by ſuch meanes as are wholly, intrinſically, undoubtedly, and meerly true, of which requiſites, both in for<g ref="char:EOLhyphen"/>mer times, and at the preſent we are deſtitute: but (as I ſaid) in the previous toleration and connivence of God, and as neer as it may be in ſuch a manner, and by ſuch meanes as are wholly, intrinſically, undoubtedly, and meerly true: yet notwithſtanding by meer Eccleſiaſtick authori<g ref="char:EOLhyphen"/>tie, in the name of the reſpective members of ſuch a Church, and by right of the common calling of ſuch Chriſtians, ſo that error both may, and ought to be tolerated in ſuch a Church?</p>
+            </div>
+            <div type="article">
+               <pb n="77" facs="tcp:170652:46"/>
+               <head>135.</head>
+               <p>If it be ſaid, that there is nothing ſet down in Scripture concerning that Eccleſiaſtick manner of gathering, and governing Churches in the to<g ref="char:EOLhyphen"/>lerance and connivence of God: Then it is to be deſired, that they which ſay ſo, would firſt accurately adviſe with the Scripture touching that matter; as alſo that they would ſhew in what other manner Churches may be gathered and governed, as the caſe of Religion now ſtan<g ref="char:EOLhyphen"/>deth, and then we will conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>136.</head>
+               <p>But if it be anſwered, that there are places extant in the Scripture, which warrant the ga<g ref="char:EOLhyphen"/>thering and governing of Churches in the tole<g ref="char:EOLhyphen"/>rance and connivence of God, by meer Eccleſi<g ref="char:EOLhyphen"/>aſtick authority, and right of the common calling of ſuch Chriſtians: Then it is to be enquired, whether thoſe places are extant in one part of the Scripture, or ſcattered through the whole volume?</p>
+            </div>
+            <div type="article">
+               <head>137.</head>
+               <p>If it be ſaid, that thoſe places are extant in one part of the Scripture, let them be produced: which done, it may be enquired, whether it be certain, that there are no other places to be found elſe where in the Scripture concerning that matter? And when that is performed, then we will conſider of the whole buſineſſe.</p>
+            </div>
+            <div type="article">
+               <pb n="78" facs="tcp:170652:47"/>
+               <head>138.</head>
+               <p>But if it be anſwered, that thoſe places are ſcattered up and down through the whole Bible: Then it is to be enquired, whether we ought to judge of that matter according to ſome part of the places, or according to all and ſingu<g ref="char:EOLhyphen"/>lar places, extant in the Scripture concerning it?</p>
+            </div>
+            <div type="article">
+               <head>139.</head>
+               <p>If it be ſaid, that we ought to judge of that matter, according to ſome of thoſe places con<g ref="char:EOLhyphen"/>tained in the Scripture, let the reaſons thereof be produced, that we may conſider of them. But by what meanes can they, who ſpeak ſo, be cer<g ref="char:EOLhyphen"/>tain in their own judgement? ſince it may be, that in other places paſſed by, more may be ſpoken for the contrary part, than is ſpoken on their ſide in the places which they alledge; or at leaſt ſince the places paſſed by may ſuggeſt ſome meanes, not found in the places which they have taken notice of; and therefore how can a ſolid judgement be made concerning the whole buſineſſe, when only a part of the places hath been conſidered and weighed?</p>
+            </div>
+            <div type="article">
+               <head>140.</head>
+               <p>But if it be anſwered, that judgement ought to be made according to all and ſingular places found in the Scripture touching that matter: Then it is to be enquired whether all and ſingu<g ref="char:EOLhyphen"/>lar places touching that gathering and governing
+<pb n="79" facs="tcp:170652:47"/>of Churches may be exactly known, (according to the rate of the gifts that are extant in this revolted ſtate of the Church;) unleſſe thoſe things that are expreſſed or implied in the Scrip<g ref="char:EOLhyphen"/>tures, according to their originall tongues, Chaldee Paraphraſes, Greek, Syriack, Arabick, Aethiopick, Armenick &amp; other Tranſlations, (for as much as this thing concerneth all Chriſtians, being now revolted,) together with ancient and modern Commentaries of what language ſoe<g ref="char:EOLhyphen"/>ver, and other helps both literall and ſpirituall; I ſay, unleſſe all the things ſet down in Scripture touching that matter be without prejudice ar<g ref="char:EOLhyphen"/>gued on both ſides <hi>pro</hi> and <hi>con,</hi> and the weight and force of every place accurately ſcanned, to the intent that all thoſe places being ſet down, diſcuſſed, and weighed on both ſides, judgement may at length be made, according as the manifeſt truth ſhall preſent it ſelf to the view in ſome one of thoſe parts, immediatly confronted to<g ref="char:EOLhyphen"/>gether?</p>
+            </div>
+            <div type="article">
+               <head>141.</head>
+               <p>If it be ſaid, that there is no need of ſo labori<g ref="char:EOLhyphen"/>ous an enquiry after the truth in this matter, let another way to ſearch it out alike certain (in this revolted ſtate of the Church) be produced, and then we will conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>142.</head>
+               <p>But if it be anſwered, that in this ſtate of the
+<pb n="80" facs="tcp:170652:48"/>Church nothing can be certainly known or de<g ref="char:EOLhyphen"/>termined concerning that matter, unleſſe we proceed in the manner aforeſaid: Then it is to be enquired, whether any men either have been, or are now known, who, in this revolted ſtate of the Church, have ſo performed that thing?</p>
+            </div>
+            <div type="article">
+               <head>143.</head>
+               <p>If it be ſaid, that there are ſome, let the per<g ref="char:EOLhyphen"/>ſons be named who have ſought out and endea<g ref="char:EOLhyphen"/>voured that gathering and governing of Chur<g ref="char:EOLhyphen"/>ches, by all the meanes that have heretofore been, or now are.</p>
+            </div>
+            <div type="article">
+               <head>144.</head>
+               <p>But if it be anſwered, that none either have bin, or are now known, who, in this revolted ſtate of the Church, have taken that courſe: Then it is to be enquired, whether it can any longer be doubted, whence ſo many and ſo great content<g ref="char:EOLhyphen"/>ons and ſchiſmes have ſprung up in the Chriſtian Church, and do as yet ſpring up; ſince it is ap<g ref="char:EOLhyphen"/>parent, that the neglect of this ſearch hath been, &amp; ſtill is the cauſe of thoſe ſtirs, in that Miniſters, not obſerving, or not regarding the want of fit perſons and gifts for the adminiſtration of the Church in the name of God, have yet adventu<g ref="char:EOLhyphen"/>red to continue in the name of God thoſe Chur<g ref="char:EOLhyphen"/>ches that were at firſt duely gathered and go<g ref="char:EOLhyphen"/>verned in the name of God, or to erect new ones in the name of God by ſuch means as were
+<pb n="81" facs="tcp:170652:48"/>not wholly, intrinſically, undoubtedly, and meerly true. Whereupon it came to paſſe, that every one pretending to be a lawfull Miniſter in the name of God, did captivate the people with his doctrine as duly propoſed in the name of God, and conſequently to be ſtrickly obſerved; and ſo divided the people, being zealous for their Miniſters, into divers factions: whereas they ought to have meaſured themſelves by their own module, and after the want of fit perſons and gifts, to have gathered and governed Chur<g ref="char:EOLhyphen"/>ches, not in the name of God, but only by Ec<g ref="char:EOLhyphen"/>cleſiaſtick authority, and right of common cal<g ref="char:EOLhyphen"/>ling, and in the name of the reſpective members of the Church, (but as neer as might be in ſuch a manner, and by ſuch meanes as were wholly, intrinſically, undoubtedly, and meerly true,) according as God in the Scripture gives a tole<g ref="char:EOLhyphen"/>ration in ſuch caſes? Alſo, it is to be enquired, whether the aforeſaid collection and ranging of places of Scripture be eſteemed a thing impoſſi<g ref="char:EOLhyphen"/>ble, or not?</p>
+            </div>
+            <div type="article">
+               <head>145.</head>
+               <p>If it be ſaid, that it is eſteemed a thing impoſſi<g ref="char:EOLhyphen"/>ble: Then I ſay, that it is alſo impoſſible, in this revolted ſtate of the Church, to gather and go<g ref="char:EOLhyphen"/>vern Churches in any convenient manner; for how will it appear that it is done in a convenient manner, if you proceed otherwiſe?</p>
+            </div>
+            <div type="article">
+               <pb n="82" facs="tcp:170652:49"/>
+               <head>146.</head>
+               <p>But if it be anſwered, that the collection a<g ref="char:EOLhyphen"/>foreſaid is not eſteemed a thing impoſſible, ſince few places are found in Scripture concerning this gathering and governing of Churches, in that the Scripture was given to inſtitute, conſerve, and introduce the exactneſſe of worſhip to be adminiſtred in the name of God, and not to preſcribe the worſhip of the apoſtolicall Church in the tolerance and connivence of God: Then it is to be enquired, whether the Churches, which during the want of fit perſons and gifts for the due adminiſtration of the Church in the name of God, have been, and ſtill are gathered and go<g ref="char:EOLhyphen"/>verned, neglecting to enquire the aforeſaid man<g ref="char:EOLhyphen"/>ner of conſtituting Churches could and can ac<g ref="char:EOLhyphen"/>curately know, whether they have been, and are well gathered and governed?</p>
+            </div>
+            <div type="article">
+               <head>147.</head>
+               <p>If it be ſaid, that they could and can accurately know it, let the reaſons there of be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>148.</head>
+               <p>But if it be anſwered, that they neither could, nor can accurately know it, and therefore juſtly ought to doubt, whether that adminiſtration and conſtitution of Churches, which hath heretofore paſſed, and at this day paſſeth in the name of God, be inſtituted, commanded, or welpleaſingly
+<pb n="83" facs="tcp:170652:49"/>permitted by Chriſt: Then it is to be enquired, whether all and ſingular perſons, who after the foreſaid want of gifts and perſons, have not followed that courſe of ſearching out and conſti<g ref="char:EOLhyphen"/>tuting Churches, but have continued in the name of God thoſe Churches, that were at firſt duely gathered and governed in the name of God, or erected new ones in the name of God, by ſuch meanes, as were not wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true; whether, I ſay, all ſuch perſons, and their Churches ought to have been very ſhie of preaching in the name of God, a word not wholly, intrinſically, undoubtedly, and meerly true; of making in the name of God catechiſmes and confeſſions, not wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true; of admi<g ref="char:EOLhyphen"/>niſtring Sacraments in the name of God; of ſlighting and excommunicating other Churches; of calling, ordaining, and ſending Miniſters in the name of God; of examining men about their faith; of governing the Church; of exer<g ref="char:EOLhyphen"/>ciſing Eccleſiaſtick diſcipline in the name of God; of framing and impoſing liturgies, and conſiſto<g ref="char:EOLhyphen"/>riall claſſicall and ſynodall acts, and Eccleſiaſtick decrees, in the name of God: of imploring the ſecular arme to puniſh ſuch as they call Hereticks and Schiſmaticks; of publickly bleſſing the peo<g ref="char:EOLhyphen"/>ple in the name of God; of praying publickly for all the people, as if they were Miniſters ſent
+<pb n="84" facs="tcp:170652:50"/>to diſcharge an embaſſage for Chriſt; of making hymnes to be publickly ſung in the Church as a part of divine ſervice; of making formes of ad<g ref="char:EOLhyphen"/>miniſtration of baptiſme and the Lords Supper, of ordination of Miniſters, Elders and Deacons; of making formes of marriage, excommunication, reception and admiſſion into the Church, of the depoſition of Miniſters, of the viſitation of the ſick, and of private prayers; of making formes to bid publicke faſts and dayes of humiliation; of making formes to appoint holy dayes, rites, and ceremonies in the Church; all which formes have beene made as by Miniſters ſent in the name of God: Moreover they ought to have been ſhie of tranſlations of the Scripture, of written com<g ref="char:EOLhyphen"/>mentaries, of written Sermons, of common Pla<g ref="char:EOLhyphen"/>ces, Theſes, and the like, made and propoſed to the people as by Miniſters officiating for God; alſo of <hi>opening,</hi> erecting and governing Schooles and Univerſities; of callings, elections, confir<g ref="char:EOLhyphen"/>mations, and ordinations of Doctors, Bachelors, and Profeſſors of Divinity; of licencing books; of opening and ſhutting the preſſe; of ordaining publicke Readers of the Scripture, Clerks, and Viſiters of the ſick; of forbidding to converſe with Chriſtians of other ſocieties; of forbidding the mutuall edification of Chriſtians in publick; of requiring of Chriſtians a publicke profeſſion of their faith; of preſcribing a way to convert
+<pb n="85" facs="tcp:170652:50"/>thoſe that go aſtray, and thoſe that are ignorant; alſo of all other things, which ought not to be done either in the name of God, without a pre<g ref="char:EOLhyphen"/>vious due miſſion and calling; or in the tolerance and connivence of God, by Eccleſiaſtick authori<g ref="char:EOLhyphen"/>ty, in the name of the reſpective Members of the Church, and by right of common calling, without that accurate ſearch and direction of the Scripture.</p>
+            </div>
+            <div type="article">
+               <head>149.</head>
+               <p>If it be ſaid, that they ought not therefore to ab<g ref="char:EOLhyphen"/>ſtaine from ſuch things; let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>150.</head>
+               <p>But if it be anſwered, that theſe perſons and their Churches ought to be very ſhie of ſuch things; Then it is to be enquired, whether they are not worthy of great pity, becauſe in this re<g ref="char:EOLhyphen"/>volted ſtate of the Church, they notwithſtanding beare Eccleſiaſtick offices; ſtoutly and zealouſly maintaine their Eccleſiaſtick government and diſcipline, together with thoſe other proceeding of theirs adorned with ſpecious titles, and exer<g ref="char:EOLhyphen"/>ciſe them in a proud magiſteriall manner againſt thoſe that are of a different opinion; and either directly or indirectly draw to themſelves the ſpirituall rights of the true Miniſters of God, and (as much as they can) the ſecular rights of the civill Magiſtrates, (in all which they have neither
+<pb n="86" facs="tcp:170652:51"/>part nor portion,) and that under pretence of continuing, gathering, and governing the Church in the name of God, or in the ſtead, and by the Authority of God.</p>
+            </div>
+            <div type="article">
+               <head>151.</head>
+               <p>If it be ſaid, that ſuch perſons and their Chur<g ref="char:EOLhyphen"/>ches are not worthy of great pity, let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>152.</head>
+               <p>But if it be anſwered, that ſuch perſons and their Churches are worthy of great pity: Then it is to be enquired, In what eſteeme a Chriſtian now a dayes (ſince all, either more or leſſe, have continued, or gathered and governed Churches in the name of God, without any previous inſti<g ref="char:EOLhyphen"/>tution, command, or welpleaſing permiſſion of his in the Scripture) in what eſteeme, I ſay, a Chriſtian ought to hold ſuch a Church and ſo<g ref="char:EOLhyphen"/>ciety wherein he liveth?</p>
+            </div>
+            <div type="article">
+               <head>153.</head>
+               <p>If any thing be produced hereupon, we will conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>154.</head>
+               <p>But if nothing be produced; Then it is to be enquired, whether all and ſingular Churches, which in the revolted ſtate of the Church, have neither been erected, gathered, nor governed in the aforeſaid manner by meere Eccleſiaſtick au<g ref="char:EOLhyphen"/>thority, but vaunt themſelves to be either con<g ref="char:EOLhyphen"/>tinued,
+<pb n="87" facs="tcp:170652:51"/>or gathered and governed in the name of God, ought to be accounted imperfect and preſumptuous? Imperfect, becauſe amongſt o<g ref="char:EOLhyphen"/>ther things their Miniſters want a word of mouth, wholly, intrinſically, undoubtedly, and meerly true, to be uttered in the publicke wor<g ref="char:EOLhyphen"/>ſhip in the name of God; Preſumptuous, be<g ref="char:EOLhyphen"/>cauſe in ſtead of a word, wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, which ought alone to be uttered in the publick wor<g ref="char:EOLhyphen"/>ſhip in the name of God, they ſubſtitute their own concionatory word, not wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly and meerly true, and having excluded all the people, claime to themſelves alone a power and right to ſpeake in the Church contrary to the cuſtome both of the ancient Jewiſh and primitive Chriſtian Church, which manner of the primitive Chriſtian Church was ſubordinate to the direction of the Apoſtles, wholly, intrinſically, undoubtedly, and meerly true, and conſiſted not in the promiſcuous expli<g ref="char:EOLhyphen"/>cation of any texts whatſoever, deſtitute of ſuch an effectuall direction, (as it hath been hereto<g ref="char:EOLhyphen"/>fore, and is at this day corruptly done in Chur<g ref="char:EOLhyphen"/>ches by means of Sermons:) Moreover, whether they ought to be accounted preſumptuous, be<g ref="char:EOLhyphen"/>cauſe they perform their gathering, government and diſcipline of Churches, and all their aforeſaid practiſes in the name of God?</p>
+            </div>
+            <div type="article">
+               <pb n="88" facs="tcp:170652:52"/>
+               <head>155.</head>
+               <p>If it be ſaid, that they ought not to be accoun<g ref="char:EOLhyphen"/>ted for ſuch Churches and ſocieties, let the rea<g ref="char:EOLhyphen"/>ſons thereof be produced; and let it be declared what manner of Churches they ought to be ac<g ref="char:EOLhyphen"/>counted, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>156.</head>
+               <p>But if it be anſwered, that all thoſe Eccleſia<g ref="char:EOLhyphen"/>ſtick ſocieties ought to be accounted for ſuch: Then it is to be enquired, whether, and in what manner one may notwithſtanding continue and communicate with them?</p>
+            </div>
+            <div type="article">
+               <head>157.</head>
+               <p>If there be any expedients, let them be produ<g ref="char:EOLhyphen"/>ced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>158.</head>
+               <p>But if nothing be produced concerning that matter: Then it is to be enquired; (ſince the wor<g ref="char:EOLhyphen"/>ſhip of ſuch ſocieties, being not wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, cannot, for the reaſons often ſpecified, be accounted for the genuine worſhip, performed in the name of God, according to his inſtitution, command or welpleaſing permiſſion, although thoſe ſocieties were by their authors erected according to the Scriptures alone, as well as they were able:) It is, I ſay, to be then enquired, whether, all ſuch ſocieties, as long as they ſinne out of ignorance,
+<pb n="89" facs="tcp:170652:52"/>may by the judgement of charity in ſome ſort be accounted for ſocieties erected, gathered and governed, meerly by Eccleſiaſtick authority, and right of common calling, and in the name of the reſpective members of the Church, in the tole<g ref="char:EOLhyphen"/>rance and connivence of God, as it hath been ſaid? that is, for ſuch ſocieties, wherein none either ruleth the Church, or ſpeaketh in the name of God, or by way of embaſſage for God; and wherein error both can and ought to be to<g ref="char:EOLhyphen"/>lerated; and with which ſocieties ignorantly vaunting in the name of God, (though imper<g ref="char:EOLhyphen"/>fect, becauſe amongſt other things they want a word of mouth, wholly, intrinſically, undoubt<g ref="char:EOLhyphen"/>edly, and meerly true; and preſumptuous, be<g ref="char:EOLhyphen"/>cauſe they boaſt their own concionatory word, not wholly, intrinſically, undoubtedly, and meerly true, for divine ſervice performed in the name of God; and becauſe Miniſters alone ſpeak therein, and that concerning any points whatſoever, and performe the gathering, government, and diſci<g ref="char:EOLhyphen"/>pline of their Churches in the name of God;) yet notwithſtanding, in regard of the edificative wor<g ref="char:EOLhyphen"/>ſhip performed there by their Miniſters and peo<g ref="char:EOLhyphen"/>ple, though defectively and abuſively, a Chriſtian may in charity communicate with them, applying to them (as neare as it may be) that of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Deſpiſe not propheſyings, prove all things; hold faſt that which is good;</hi> 1 <hi>Theſ.</hi> 5.20, 21. and
+<pb n="90" facs="tcp:170652:53"/>making uſe of the Sacraments there, as they are publick profeſſions of the ſalvation of God got<g ref="char:EOLhyphen"/>ten by the death and reſurrection of Chriſt, and common to all Chriſtians; without any regard had of the perſons that adminiſter them, and their calling.</p>
+            </div>
+            <div type="article">
+               <head>159.</head>
+               <p>If it be ſaid, that we ought not to account the foreſaid ſocieties for ſuch, by the judgement of charity, let the reaſons thereof be produced, and let it be declared what manner of Churches they may by the judgement of charity be accoun<g ref="char:EOLhyphen"/>ted, that we may conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>160.</head>
+               <p>But if it be anſwered, that they may be ac<g ref="char:EOLhyphen"/>counted for ſuch Churches, wherein edificative worſhip is performed, by every Chriſtian reſpe<g ref="char:EOLhyphen"/>ctively, that abideth in them without reluctancy of conſcience: Then it is to be enquired, whether one ought perpetually to communicate with thoſe ſocieties in that manner, or not?</p>
+            </div>
+            <div type="article">
+               <head>161.</head>
+               <p>If any thing be produced touching this matter, we will conſider of it.</p>
+            </div>
+            <div type="article">
+               <head>162.</head>
+               <p>But if nothing be produced; Then it is to be enquired, whether it be lawfull to communicate with thoſe ſocieties in that manner any longer, then is ſufficient for them, being informed of the foreſaid way of gathering &amp; governing Churches
+<pb n="91" facs="tcp:170652:53"/>by Eccleſiaſtick authority, duely to examine their gathering and governing of Churches in the name of God, and publickly to declare their opinion touching the ſame, whether thoſe things are ge<g ref="char:EOLhyphen"/>nuine that are done in the name of God, or not; again, then is ſufficient for them, after they have found and publiſhed that theſe things are unlaw<g ref="char:EOLhyphen"/>full, which have been done in the name of God, to inſtitute in their ſtead, in the connivence of God, a publick worſhip drawn out of the Scrip<g ref="char:EOLhyphen"/>ture; that by this meanes, the members of thoſe ſocieties, abiding every one in his own ſociety reſpectively, may decently, and in order, without any ſeditions or ſchiſmes addict themſelves to that worſhip of connivency, and perſiſt unani<g ref="char:EOLhyphen"/>mouſly therein, being backt with the concurrence of other like ſocieties? For if they either neglect or protract that examination, or when they have made it, refuſe to declare and publiſh their opi<g ref="char:EOLhyphen"/>nion touching the uſuall gathering and governing of their Churches, but on the contrary traduce, vexe, and perſecute thoſe who have perſwaded them to it, and admoniſh them to publiſh it, and ſo adde obſtinacy to their error; or after they have found and publiſhed that thoſe things are unlawfull which they have hitherto practiſed, cauſing them to be performed in the Church in the name of God; yet notwithſtanding neglect, protract, or refuſe to inſtitute that worſhip of
+<pb n="92" facs="tcp:170652:54"/>connivence: in ſhort, if ſuch ſelfe condemned ſocieties nevertheleſſe neither forſake their for<g ref="char:EOLhyphen"/>mer worſhip, nor inſtitute the aforeſaid worſhip of connivence; Then, I ſay, it is to be enquired, whether it be neceſſary in that caſe for Chriſtians to ſeperate themſelves from ſuch ſocieties, every one from his own reſpectively, accounting them not longer Churches of God, but malignant ſo<g ref="char:EOLhyphen"/>cieties; whereinto the ſoule of a man fearing God and onely following the written word of God, wholly, intrinſically, undoubtedly, and meerly true, ought not to enter.</p>
+            </div>
+            <div type="article">
+               <head>163.</head>
+               <p>If it be ſaid, that it is not neceſſary for a Chri<g ref="char:EOLhyphen"/>ſtian in ſuch a caſe to ſeparate himſelf from his own ſociety, let the reaſons thereof be produ<g ref="char:EOLhyphen"/>ced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>164.</head>
+               <p>But if it be anſwered, that it is neceſſary for him to do ſo; Then it is to be enquired, whether he ought to depart ſilently from that ſociety, without any declaration? or having firſt uſed a declaration? or firſt ſilently, and afterwards uſing a declaration?</p>
+            </div>
+            <div type="article">
+               <head>165.</head>
+               <p>If it be ſaid, that he ought to depart ſilently
+<pb n="93" facs="tcp:170652:54"/>without any declaration, let the reaſons be pro<g ref="char:EOLhyphen"/>duced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>166.</head>
+               <p>But if it be anſwered, that he ought to depart, having firſt uſed, or preſently after uſing a de<g ref="char:EOLhyphen"/>claration, or firſt ſilently, and afterwards uſing a declaration: Then it is to be enquired, How a Chriſtian ought to behave himſelf in point of religious worſhip, after he hath duly forſaken that vain ſociety?</p>
+            </div>
+            <div type="article">
+               <head>167.</head>
+               <p>If there be any expedients, let them be pro<g ref="char:EOLhyphen"/>duced, and we will weigh them.</p>
+            </div>
+            <div type="article">
+               <head>168.</head>
+               <p>But if nothing be produced touching this mat<g ref="char:EOLhyphen"/>ter; Then it is to be enquired, whether it be not better for a Chriſtian, with a good conſcience, to performe privately a worſhip, wholly, intrin<g ref="char:EOLhyphen"/>ſically, undoubtedly, and meerly true, by making uſe of the Scripture as it is, and lies; than con<g ref="char:EOLhyphen"/>trary to his conſcience to be preſent with an aſ<g ref="char:EOLhyphen"/>ſembly, publikely performing, in the name of of God, a worſhip no wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true, though convin<g ref="char:EOLhyphen"/>ced in their own hearts of the unlawfulneſſe thereof?</p>
+            </div>
+            <div type="article">
+               <pb n="94" facs="tcp:170652:55"/>
+               <head>169.</head>
+               <p>If it be ſaid, that it is not better for him, let the reaſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>170.</head>
+               <p>But if it be anſwered, that it is better for him to perform privately a worſhip wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true: Then it is to be enquired, whether in the caſe aforeſaid, namely, when there is no publick worſhip found whereof a Chriſtian can partake with a good conſcience; where, I ſay, it can be doubted, but that pivate worſhip performed by meanes of the Scripture, wholly, intrinſically, undoub<g ref="char:EOLhyphen"/>tedly, and meerly true, doth then ſupply the place of true publick worſhip?</p>
+            </div>
+            <div type="article">
+               <head>171.</head>
+               <p>If it be ſaid, that it may be doubted concerning that matter, let the reaſons be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>172.</head>
+               <p>But if it be anſwered, that it cannot be doub<g ref="char:EOLhyphen"/>ted concerning that matter: Then it is to be en<g ref="char:EOLhyphen"/>quired, whether or no, or how long a Chriſtian fearing God ought to continue in that practiſe of private worſhip only?</p>
+            </div>
+            <div type="article">
+               <pb n="95" facs="tcp:170652:55"/>
+               <head>173.</head>
+               <p>If any thing be produced touching this mat<g ref="char:EOLhyphen"/>ter, we will conſider it.</p>
+            </div>
+            <div type="article">
+               <head>174.</head>
+               <p>But if nothing be produced; Then it is to be enquired, whether ſince the very Scripture, as it is, &amp; lyes, is publickly propoſed for the only cate<g ref="char:EOLhyphen"/>chiſme &amp; confeſſion in the name of God; alſo for the only means of the whole publick worſhip, to be performed in the tolerance and connivence of God, in this revolted ſtate of the Church, meerly by Eccleſiaſtick authority, and right of common calling, and in the name of the reſpective mem<g ref="char:EOLhyphen"/>bers of the Church; alſo for the only meanes, wholly, intrinſically, undoubtedly, and meerly true, of Eccleſiaſtick government in common fundamentalls, and of mutuall publick edifica<g ref="char:EOLhyphen"/>tion by ſpeech, which are ſubordinate to the ve<g ref="char:EOLhyphen"/>ry Scripture it ſelfe, and in their exerciſe come neereſt to be wholly, intrinſically, un<g ref="char:EOLhyphen"/>doubtedly, and meerly true; alſo for the fitting meanes of mutuall tolerance; ſince, I ſay, the very Scripture it ſelfe is propoſed in the foreſaid manner by ſome Chriſtians fearing God, who in this revolted ſtate of the Church, have canvaſed the whole Scripture <hi>pro</hi> and <hi>con,</hi> touch<g ref="char:EOLhyphen"/>ing that gathering and governing of the Church in the tolerance and connivence of God, and have ſincerely communicated their collections to
+<pb n="96" facs="tcp:170652:56"/>all the world; and all Church gathering, worſhip, edification, government, and tolerance, accor<g ref="char:EOLhyphen"/>ding to the moſt evident determination of the Scripture in thoſe collections, is ſetled meerly by Eccleſiaſtick authoritie, and right of common calling, &amp; in the name of the reſpective members of the Church, with a ear alwaies open readily and thankfully to receive better information; whe<g ref="char:EOLhyphen"/>ther, I ſay, it be then ſeaſonable and profitable for a Chriſtian, having proved the things afore<g ref="char:EOLhyphen"/>ſaid the beſt he can, and ſincerely and freely ap<g ref="char:EOLhyphen"/>proving them, to joyne himſelf to that ſocietie, to worſhip, praiſe, and profeſſe God in a pub<g ref="char:EOLhyphen"/>lick manner unanimouſly with many; and mu<g ref="char:EOLhyphen"/>tually to edifie his neighbour in conference, with thoſe common fundamentalls; to the intent that others may do in like manner; and conſequently according to the rate of the gifts in every age of ſuch a Church, the will of God may be done by all Chriſtians unanimouſly in the earth as it is unanimouſly done in the heaven?</p>
+            </div>
+            <div type="article">
+               <head>175.</head>
+               <p>If it be ſaid, that even then a Chriſtian can<g ref="char:EOLhyphen"/>not joyne himſelfe to ſuch a ſociety: let the rea<g ref="char:EOLhyphen"/>ſons thereof be produced, that we may conſider of them.</p>
+            </div>
+            <div type="article">
+               <head>176.</head>
+               <p>But if it be anſwered, that a Chriſtian then
+<pb n="97" facs="tcp:170652:56"/>may do it, and it is profitable for him; Then it is well, and we have enough: for now they are brought to another publicke worſhip; namely, from that which is now in uſe, and is in its owne nature turbulent, imperfect, and preſumptuous, not wholly, intrinſically, undoubtedly, and meerly true, and yet by meanes of a word of mouth, government, catechiſme and confeſſion, not wholly, intrinſically, undoubtedly, and meerly true, boaſteth it ſelfe for the genuine worſhip of God; to a worſhip in its own nature peaceable, erected indeed meerly by Eccleſia<g ref="char:EOLhyphen"/>ſtick authority, and right of common calling. and in the name of the reſpective members of the Church, in the tolerance and connivence of God: yet notwithſtanding by the very written word of God, wholly, intrinſically, undoubtedly and meerly true, and by meanes of government, ſubordinate to the very Scripture it ſelfe, and in its exerciſe coming neareſt to be wholly, intrinſi<g ref="char:EOLhyphen"/>cally, undoubtedly, and meerly true, both Mi<g ref="char:EOLhyphen"/>niſters and people are now brought.</p>
+            </div>
+            <div type="article">
+               <head>177.</head>
+               <p>And theſe indeed are the queſtions, that were firſt to be propoſed, as well to the people, as to the Miniſters of your Churches: there ſhould now follow a fuller deduction &amp; explication of them, as alſo a conſideration of all and ſingular
+<pb n="98" facs="tcp:170652:57"/>ſtates of mans life; likewiſe the other helpe of due Eccleſiaſtick adminiſtration promiſed by Chriſt to the Church, I mean the Spirit of Chriſt; together with a proofe and enumeration of the ſundry uſes and commodities of the worſhip of connivence, and of the many diſcommodities of the worſhip at this day performed in the name of God; after that, a ſolution of objections, and many other things: But becauſe I would not be tedious, and in that your anſwer to the queſtions propoſed ought to go before, I will now omit thoſe matters, which (if God permit) ſhall be communicated to you in their ſeaſon. Farewell; and laying aſide all prejudice, remember to give to God the things that are Gods.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>In <hi>page</hi> 72. <hi>line</hi> 26. for <hi>Apoſtolicall,</hi> reade <hi>Apoſtaticall.</hi>
+            </p>
+         </div>
+         <div type="addendum">
+            <pb facs="tcp:170652:57"/>
+            <head>THE AVTHORS ADMONITION.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſince the yeer <hi>1645.</hi> no Anſwer hath hitherto been made to a Book entituled, <hi>To the Law, and to the Teſti<g ref="char:EOLhyphen"/>monie;</hi> for this cauſe they who are therein concerned are deſi<g ref="char:EOLhyphen"/>red, that, if they have any thing to anſwer, they would at length produce it. But leaſt being car<g ref="char:EOLhyphen"/>ried away with the prepoſterous prejudice of the cauſe, they
+<pb facs="tcp:170652:58"/>ſhould fight and trifle with their own vizards, (as a certain Buffon, according to the hu<g ref="char:EOLhyphen"/>mour of that faction, baſely did, to ingratiate himſelf with thoſe of his own ſide, and to ſtir up the hatred of the People againſt the Author, in a late ſillie and ſenſleſſe Pamphlet of his, not worthy of a confutation:) let them not cavill with the words, and impoſing ſuch gloſſes upon them, as are quite beſides the mind and meaning of the Au<g ref="char:EOLhyphen"/>thor, go about to refute them, and gull their poor credulous
+<pb facs="tcp:170652:58"/>diſciples: but let them cloſely grapple with the very context of the book, and true ſtate of the controverſie (not that fained one of their own making) moſt clearly ſet down in the <hi>18<hi rend="sup">th</hi>. Ar<g ref="char:EOLhyphen"/>ticle;</hi> and let them either refute the poſitive part thereof, and anſwer to the queſtions, or yeeld the bucklers. By this meanes they ſhall not be thought to have ſported in ſerious things, nor to have offered violence to their conſciences. But if they ſhall ſlight this admonition, let them thank themſelves for the aſper<g ref="char:EOLhyphen"/>ſion
+<pb facs="tcp:170652:59"/>of deſerting a deſperate Cauſe, and uſurping a Papall juriſdiction, which will thence a<g ref="char:EOLhyphen"/>riſe; and for whatſoever they would not have to come to paſſe from this neglect of theirs.</p>
+            <p>
+               <hi>Every plant which my heavenly Father hath not planted, ſhall be rooted up.</hi> Matth. <hi>15.13.</hi>
+            </p>
+            <p>Hearken; fear; beware.</p>
+            <pb facs="tcp:170652:59"/>
+         </div>
+      </back>
+   </text>
+</TEI>
